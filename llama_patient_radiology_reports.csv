@@ -1,0 +1,923 @@
+patient_id,generated_report
+Breast_MRI_001,A mass is visualized in the medial left breast at the 9 o'clock position.
+Breast_MRI_002,A mass is seen in the left breast at the 1 o'clock position.
+Breast_MRI_003,"A mass is seen in the 2 o'clock position of the breast, with pleomorphic calcifications, and exhibits a multicentric or multifocal disease pattern. Additionally, suspicious axillary lymphadenopathy is present against a background of scattered breast density."
+Breast_MRI_004,An abnormality is seen in the left breast.
+Breast_MRI_005,"A mass is identified in the right breast at the 3 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_006,A multifocal or multicentric breast disease pattern is identified.
+Breast_MRI_007,A mass is visualized in the left breast at the 9:30 o'clock position.
+Breast_MRI_008,A mass is seen in the right breast at the 12:30 o'clock position.
+Breast_MRI_009,"A mass is noted in the right breast at the 10 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_010,"A mass is seen in the left breast at the 10 o'clock position, with suspicious ipsilateral axillary lymphadenopathy and a multifocal disease pattern."
+Breast_MRI_011,"A mass is noted in the right breast at the 10 o'clock position, both superficially and deeply, with proximity to the nipple."
+Breast_MRI_012,"A mass is seen in the right breast at the 1 o'clock 10 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, accompanied by skin or nipple involvement."
+Breast_MRI_013,"A mass is identified in the left breast at the 1 o'clock position, exhibiting a multicentric or multifocal disease pattern, with suspicious findings also present in the contralateral breast."
+Breast_MRI_014,"A mass is seen in the right breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_015,"A mass is seen in the right breast at the 12 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_016,"In the left breast, an irregularly shaped, indistinctly marginated mass measuring 5 cm in diameter is seen at the 2 o'clock position, with hypoechoic echogenicity, and associated suspicious axillary lymphadenopathy, accompanied by skin or nipple involvement."
+Breast_MRI_017,"A mass is seen in the left breast at the 3 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_018,A mass is noted in the right breast at the 8 o'clock position.
+Breast_MRI_019,"The left breast shows a multicentric or multifocal disease pattern, with no further specific details."
+Breast_MRI_020,The right breast exhibits an abnormality.
+Breast_MRI_021,"A mass is seen in the left breast at the 3 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, with a noted multicentric or multifocal disease pattern."
+Breast_MRI_022,"In the heterogeneous breast tissue, a 2 cm irregular mass with spiculated margins is seen at the 12 o'clock position, exhibiting hypoechoic echogenicity and posterior acoustic shadowing, with a multicentric or multifocal disease pattern present."
+Breast_MRI_023,A mass is noted in the left breast at the 2 o'clock position.
+Breast_MRI_024,Left breast imaging shows an abnormality.
+Breast_MRI_025,An abnormal finding is present in the left breast.
+Breast_MRI_026,"A mass is seen in the right breast at the 7 o'clock 2 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_027,"The right breast at the 10 o'clock position shows a mass, with additional suspicious findings also present in the contralateral breast."
+Breast_MRI_028,"The left breast displays a mass, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_029,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_030,No descriptive imaging data available for this patient.
+Breast_MRI_031,"The right breast reveals a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multifocal disease pattern, with evidence of skin or nipple involvement."
+Breast_MRI_032,"In the left breast, an oval mass with obscured margins is seen at the 6 o'clock position, measuring 2.9 cm in maximum dimension, within a background of extremely dense tissue. The lesion is isoechogenic"
+Breast_MRI_033,"In the left breast, a mass is seen at the 4 o'clock subareolar position, accompanied by suspicious ipsilateral axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_034,A 3.2 cm irregular mass is seen in the 11 o'clock position.
+Breast_MRI_035,"A 2 cm irregular mass with hypoechoic echogenicity is visualized in the left breast at the 5 o'clock position, set against a background of heterogeneous parenchyma, accompanied by associated calcifications."
+Breast_MRI_036,Right breast imaging reveals a mass with a multicentric or multifocal disease pattern.
+Breast_MRI_037,"A mass is identified in the left breast at the 9 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_038,"A mass is seen in the right breast at the 6 o'clock position, with suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_039,A mass is identified in the left breast at the 1 o'clock position.
+Breast_MRI_040,"A heterogeneous density left breast reveals a 1 cm spiculated mass at the 7 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_041,An abnormality is present in the left breast.
+Breast_MRI_042,"Imaging reveals a mass in the right breast, and suspicious findings are also observed in the contralateral breast."
+Breast_MRI_043,"The right breast at the 3 o'clock position exhibits a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy, skin or nipple involvement, and pectoral muscle extension. Additionally, suspicious findings are also present in the contralateral breast."
+Breast_MRI_044,An abnormality is present in the left breast.
+Breast_MRI_045,"A 3.5 cm irregular mass with spiculated margins is seen in a heterogeneous breast background, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_046,"A mass is visualized in the left breast at the 11 o'clock, 9 o'clock lateral position, with evidence of skin or nipple involvement. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_047,"A mass is seen in the left breast at the 11 o'clock position, exhibiting a multifocal disease pattern."
+Breast_MRI_048,A mass is identified in the left breast at the 3 o'clock position.
+Breast_MRI_049,"The right breast imaging reveals a mass, and concurrently, suspicious findings are also noted in the contralateral breast."
+Breast_MRI_050,"A mass is seen in the right breast at the 12 o'clock position, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_051,"Right breast imaging reveals a mass, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_052,The left breast contains an abnormality.
+Breast_MRI_053,A mass is noted in the left breast at the 3 o'clock position.
+Breast_MRI_054,A 2 cm irregular mass with hypoechoic echogenicity is seen in the heterogeneous breast tissue at the 12 o'clock position.
+Breast_MRI_055,"A 2 cm spiculated mass is seen in the breast, with scattered fibroglandular density as the background. Notably, suspicious axillary lymphadenopathy is also present."
+Breast_MRI_056,"A mass is identified in the left breast at the 6 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_057,"A mass is seen in the right breast at the 11 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy and evidence of skin or nipple involvement."
+Breast_MRI_058,The left breast at the 6 o'clock position exhibits a mass with a multicentric or multifocal disease pattern.
+Breast_MRI_059,"A mass is seen in the left breast at the 12 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_060,"A 2.6 cm hypoechoic mass with pleomorphic calcifications is seen in the heterogeneous breast tissue, located at the 8 o'clock position, with circumscribed margins."
+Breast_MRI_061,"A mass is visualized in the left breast at the 3 o'clock position, with evidence of multicentric or multifocal disease, and skin or nipple involvement is also present."
+Breast_MRI_062,"A mass is noted in the right breast at the 3 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_063,"The right breast reveals a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_064,A mass is seen in the left breast at the 12 o'clock position.
+Breast_MRI_065,A mass is identified in the left breast.
+Breast_MRI_066,A mass is noted in the left breast.
+Breast_MRI_067,A mass is seen in the left breast at the 1 o'clock position.
+Breast_MRI_068,"A 2.4 cm irregular, hypoechoic mass is seen in the right breast at the 3 o'clock position, with a scattered background density; additional lesions are present in a multicentric or multifocal distribution."
+Breast_MRI_069,"A 1.6 cm irregular, spiculated mass with hypoechoic echogenicity and posterior acoustic shadowing is seen in the breast tissue, appearing solid on ultrasound, superimposed on a heterogeneous background."
+Breast_MRI_070,"A heterogeneous breast density is seen, with a mass located in the 9-12 o'clock position of the right breast, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_071,Right breast imaging reveals a multifocal or multicentric disease pattern.
+Breast_MRI_072,A mass is present at the 12 o'clock position.
+Breast_MRI_073,"A mass is seen in the left breast at the 330 o'clock position, with suspicious ipsilateral axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_074,"A mass is seen in the left breast at the 2 o'clock position, with calcifications anteriorly, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_075,A mass is present in the left breast.
+Breast_MRI_076,"A mass is identified in the right breast at the 12 o'clock position, and further evaluation also reveals suspicious findings in the contralateral breast."
+Breast_MRI_077,A hypoechoic mass is noted in the upper outer quadrant of the breast.
+Breast_MRI_078,"A 2 cm irregular mass with indistinct margins is seen in the 1 o'clock position of the breast, situated within a heterogeneous tissue background, and is accompanied by suspicious axillary lymphadenopathy, with a multifocal disease pattern present."
+Breast_MRI_079,"A mass is seen in the right breast at the 6 o'clock position, with associated calcifications."
+Breast_MRI_080,"A mass is seen in the right breast at the 10 o'clock position, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_081,A mass is noted in the right breast at the 9 o'clock position.
+Breast_MRI_082,"A mass is seen in the right breast at the 5 o'clock position, exhibiting a multicentric or multifocal disease pattern, with additional suspicious findings also present in the contralateral breast."
+Breast_MRI_083,"A mass is visualized in the left breast, specifically at the 2 o'clock to 3 o'clock position."
+Breast_MRI_084,A mass is identified in the right breast at the 6 o'clock position.
+Breast_MRI_085,"A mass is seen in the right breast at the 8 o'clock position, with a multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast, suggesting bilateral involvement."
+Breast_MRI_086,"A mass is seen in the right breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy. The finding is part of a multicentric or multifocal disease pattern, and there are also suspicious findings detected in the contralateral breast."
+Breast_MRI_087,"A mass is identified in the left breast at the 1 o'clock anterior, 12 o'clock position, with associated suspicious axillary lymphadenopathy."
+Breast_MRI_088,A mass is present in the left breast.
+Breast_MRI_089,"The right breast shows a mass with associated suspicious axillary lymphadenopathy, a multicentric or multifocal disease pattern, and evidence of pectoral muscle and skin or nipple involvement."
+Breast_MRI_090,"A mass is seen in the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy, and skin or nipple involvement is also observed."
+Breast_MRI_091,"A 4 cm oval mass with echogenicity of 5, 6 is seen in the 12 o'clock position of the breast, with a solid appearance on ultrasound. The mass is accompanied by posterior acoustic shadowing and architectural distortion. Furthermore, suspicious axillary lymphadenopathy is present, and skin or nipple involvement is also noted."
+Breast_MRI_092,"In the dense left breast, an oval mass measuring 1.4 cm with indistinct margins is seen in the 5 o'clock position, accompanied by pleomorphic calcifications and architectural distortion. Additionally, skin or nipple involvement is noted."
+Breast_MRI_093,A mass is identified in the subareolar region of the left breast.
+Breast_MRI_094,"The right breast shows a mass at the 8 o'clock position, exhibiting a multicentric or multifocal disease pattern, with additional involvement of the skin or nipple."
+Breast_MRI_095,A mass is identified in the left breast at the 1 o'clock position.
+Breast_MRI_096,"A mass is seen at the 10 o'clock position, accompanied by calcifications, with a pattern of multicentric or multifocal disease."
+Breast_MRI_097,"A mass is visualized in the right breast at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_098,A mass is visualized in the left breast at the 2 o'clock position.
+Breast_MRI_099,"A mass is seen in the left breast, primarily in the 1 o'clock to 2:30 position, with evidence of a multicentric or multifocal disease pattern."
+Breast_MRI_100,A mass is noted in the left breast at the 6 o'clock position.
+Breast_MRI_101,"In the left breast, a 0.6 cm hypoechoic mass is seen at the 10 o'clock position, 3 cm from the nipple, with a spiculated margin. Suspicious axillary lymphadenopathy is present, and a multicentric or multifocal disease pattern is noted. Additionally, suspicious findings are seen in the contralateral breast."
+Breast_MRI_102,A mass is seen in the right breast at the 12 o'clock position.
+Breast_MRI_103,"The right breast examination reveals a mass, accompanied by suspicious axillary lymphadenopathy, and a multifocal or multicentric disease pattern is suspected."
+Breast_MRI_104,A mass is visualized in the right breast at the 6 o'clock position.
+Breast_MRI_105,"In the dense left breast, an irregular, indistinct-margined mass measuring 2 cm in diameter is seen in the 10 o'clock position, appearing solid on ultrasound and with an anechoic echogenicity, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_106,"A mass is identified in the right breast at the 10 o'clock posterior position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_107,"In the left breast, an irregular mass with indistinct margins is seen in the 4-5 o'clock subareolar position, extending into the axillary tail"
+Breast_MRI_108,"In the right breast, an abnormality is noted at the 11 o'clock 9 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease is also evident."
+Breast_MRI_109,"A mass is visualized in the left breast at the 2, 3, and 5 o'clock positions, with associated suspicious axillary lymphadenopathy, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_110,A mass is noted in the right breast at the 10 o'clock position.
+Breast_MRI_111,"A mass is seen in the left breast at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_112,A 3 cm lobular mass with indistinct margins is seen in a scattered breast density background.
+Breast_MRI_113,No descriptive imaging data available for this patient.
+Breast_MRI_114,"A mass is visualized in the right breast at the 9 o'clock position, exhibiting a multicentric or multifocal disease pattern. Additionally, suspicious findings are present in the contralateral breast."
+Breast_MRI_115,"The breast tissue exhibits heterogeneous density, with multiple calcifications noted, specifically at 4 o'clock and 7 o'clock positions."
+Breast_MRI_116,"A mass is seen in the right breast at the 10 o'clock position, with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_117,"A mass is seen in the left breast at the 1 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_118,A mass is seen in the right breast at the 9:30 o'clock position.
+Breast_MRI_119,"In the heterogeneous breast tissue, a 0.5 cm lesion is seen at the 1 o'clock-10 o'clock position, with an echogenicity of 3. The lesion has a distorted shape and is associated with architectural distortion. No calcifications are present. Additionally, suspicious axillary lymphadenopathy is noted, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_120,"A mass is identified in the right breast at the 4 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_121,"In the heterogeneous breast tissue, a 0.4 cm oval mass with hypoechoic echogenicity is seen at the 9 o'clock position, accompanied by posterior acoustic shadowing."
+Breast_MRI_122,"A mass is identified in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_123,"In the left breast, an extremely dense background tissue is seen, with a 3.5 cm oval mass having obscured margins located in the 3 o'clock to 6 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_124,"A mass is seen in the left breast, without calcifications."
+Breast_MRI_125,"A mass is identified in the left breast, specifically in the low outer quadrant and inner quadrant, with suspicious axillary lymphadenopathy noted, and a multicentric or multifocal disease pattern observed."
+Breast_MRI_126,"Multifocal disease is present in the left breast, with masses identified at the 3, 6, 9, and 12 o'clock positions, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_127,"A 0.6 cm spiculated mass with a solid appearance on ultrasound is seen in the left breast at the 1 o'clock 2 o'clock position, within a background of scattered breast tissue density, exhibiting an echogenicity of 2. The lesion demonstrates a multicentric or multifocal disease pattern."
+Breast_MRI_128,"The right breast exhibits a mass at the 3 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_129,"Imaging reveals a scattered breast density with a 1.1 cm lesion, accompanied by suspicious axillary lymphadenopathy, and a multifocal disease pattern."
+Breast_MRI_130,"A mass is seen in the left breast, accompanied by suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_131,"A mass is noted in the left breast, situated between the 10 and 11 o'clock positions."
+Breast_MRI_132,The left breast at the 1 o'clock position shows an abnormality.
+Breast_MRI_133,The mammogram shows a multicentric or multifocal disease pattern.
+Breast_MRI_134,"A 2.4 cm irregular mass with obscured margins is seen in the breast, exhibiting hypoechoic echogenicity, and is accompanied by suspicious axillary lymphadenopathy. Additionally, a multicentric or multifocal disease pattern is demonstrated. The breast tissue is heterogeneous in density."
+Breast_MRI_135,"In the right breast, an irregular mass with indistinct margins is seen in the 11 o'clock position, measuring 3 cm in maximum dimension, with a heterogeneous pattern of calcifications and a hypoechoic echogenicity, set against a background of scattered breast tissue density."
+Breast_MRI_136,"In the left breast at the 6 o'clock position, an irregular mass measuring 2.7 cm in diameter is seen, with mixed echogenicity, situated within a background of extremely dense tissue."
+Breast_MRI_137,A mass is identified in the left breast at the 4 o'clock position.
+Breast_MRI_138,A mass is noted in the right breast.
+Breast_MRI_139,A mass is visualized in the right breast at the 10 o'clock position.
+Breast_MRI_140,"The left breast exhibits an irregular, 4 cm mass with indistinct margins, hypoechoic echogenicity, and pleomorphic calcifications, situated in a scattered fibroglandular background, accompanied by suspicious axillary lymphadenopathy, pectoral muscle involvement, and skin or nipple involvement."
+Breast_MRI_141,"The left breast demonstrates a mass at the L, 12 position, with a multifocal disease pattern. Additionally, suspicious findings are also present in the contralateral breast."
+Breast_MRI_142,"Left breast imaging reveals a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_143,"In the right breast, an abnormality is seen at the 11 o'clock position, with and without calcifications, and there are also suspicious findings noted in the contralateral breast."
+Breast_MRI_144,A mass is seen in the right breast at the 9 o'clock 1 position.
+Breast_MRI_145,The right breast at the 1 o'clock to 2 o'clock position exhibits a mass with a multicentric or multifocal disease pattern.
+Breast_MRI_146,The breast tissue is heterogeneous in density.
+Breast_MRI_147,"Imaging reveals a mass in the 2-3 o'clock position of the breast, with a multifocal or multicentric disease pattern."
+Breast_MRI_148,"Ipsilateral axillary imaging reveals a mass located at the 10 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_149,Suspicious axillary lymphadenopathy is noted.
+Breast_MRI_150,"The left breast, particularly at the 2 o'clock to 6 o'clock position, displays a heterogeneous density with an irregular mass measuring 0.7 cm in maximum dimension. The lesion's echogenicity is hypoechoic, accompanied by posterior acoustic shadowing. Associated calcifications, numbering 6 with 4 as distant findings, are also present. Architectural distortion is evident, and a multicentric or multifocal disease pattern is suggested."
+Breast_MRI_151,Left breast imaging demonstrates an abnormal finding.
+Breast_MRI_152,"A mass is seen in the 12 o'clock 10 position of the breast, with a pattern of multicentric or multifocal disease."
+Breast_MRI_153,"The right breast reveals a mass at the 11 o'clock position, exhibiting a pattern of multicentric or multifocal disease."
+Breast_MRI_154,Multicentric or multifocal disease is identified in the right breast.
+Breast_MRI_155,Right breast imaging shows an abnormal finding.
+Breast_MRI_156,"A mass is seen in the right breast, extending across the 10, 11, and 12 o'clock positions."
+Breast_MRI_157,"A mass is seen in the right breast at the 2 o'clock position, with suspicious findings also present in the contralateral breast."
+Breast_MRI_158,"A mass is identified in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_159,"The right breast reveals a mass, accompanied by suspicious axillary lymphadenopathy, and a multifocal or multicentric disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_160,"A 2 cm irregular mass with indistinct margins is seen in the right breast at the 10 o'clock position, situated against a background of heterogeneous density. The mass is hypoechoic in echogenicity and is accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_161,"A mass is seen in the right breast at the 10 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_162,"A right breast mass is noted, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_163,"A 4.5 cm lobular mass with hypoechoic echogenicity is visualized in the breast tissue, situated at the 11 o'clock position, against a background of heterogeneous parenchyma."
+Breast_MRI_164,"A mass is identified in the left breast at the 5 o'clock position, with concomitant suspicious axillary lymphadenopathy."
+Breast_MRI_165,"A 0.6 cm mass with ill-defined margins is seen in the breast at the 2 o'clock position, accompanied by architectural distortion and posterior acoustic shadowing, against a background of scattered breast density."
+Breast_MRI_166,No descriptive imaging data available for this patient.
+Breast_MRI_167,"The right breast shows a mass at the 10 o'clock position, with associated suspicious axillary lymphadenopathy. Furthermore, a multicentric or multifocal disease pattern is seen, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_168,"A mass is seen in the left breast at the 12 o'clock position, with associated suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_169,"A mass is seen in the upper outer quadrant of the left breast, and imaging also suggests a multicentric or multifocal disease pattern."
+Breast_MRI_170,The imaging findings are consistent with a multicentric or multifocal disease pattern.
+Breast_MRI_171,A mass is identified in the right breast at the 8 o'clock position.
+Breast_MRI_172,A mass is seen in the left breast at the 8 o'clock position.
+Breast_MRI_173,A mass is noted in the right breast at the 12:30 o'clock position.
+Breast_MRI_174,"In the predominantly fatty breast, an oval, circumscribed mass measuring 1 cm in size is seen at the 6 o'clock position, with hypoechoic echogenicity."
+Breast_MRI_175,"In the scattered breast tissue, an irregular, hypoechoic mass with indistinct margins is seen in the 8 o'clock position, measuring 1.5 cm, accompanied by posterior acoustic shadowing."
+Breast_MRI_176,"In the heterogeneous breast tissue, a 1.5 cm hypoechoic mass is visualized at the 10 o'clock 6 position, accompanied by suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_177,"A mass is present in the left breast, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_178,Right breast imaging reveals an abnormality.
+Breast_MRI_179,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_180,"The right breast reveals a mass at the 2 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_181,"A mass is visualized in the left breast at the 1 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_182,"A mass is seen in the left breast, with associated calcifications, and a multicentric or multifocal disease pattern is present. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_183,A multifocal/multicentric mass is identified in the left breast.
+Breast_MRI_184,No descriptive imaging data available for this patient.
+Breast_MRI_185,"A mass is identified in the retroareolar region of the left breast, exhibiting a multicentric or multifocal disease pattern. Notably, suspicious findings are also present in the contralateral breast."
+Breast_MRI_186,"The left breast, with extremely dense tissue, displays a 6 cm lobular mass with obscured margins situated at the 9 o'clock to 10 o'clock position, accompanied by suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_187,"A mass is seen in the upper outer quadrant of the right breast, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_188,A mass is seen in the right breast at the 12:30 o'clock position.
+Breast_MRI_189,"A mass is identified in the right breast, accompanied by suspicious axillary lymphadenopathy, and demonstrates a multicentric or multifocal disease pattern, with skin or nipple involvement also noted."
+Breast_MRI_190,"A 1.4 cm irregular, hypoechoic mass is seen at the 6 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_191,A mass is seen in the left breast at the 4 o'clock position.
+Breast_MRI_192,"A mass is seen in the right breast at the 11 o'clock position, exhibiting a multicentric or multifocal disease pattern, with skin or nipple involvement present. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_193,A mass is present in the right breast.
+Breast_MRI_194,A mass is visualized in the right breast at the 9 o'clock position.
+Breast_MRI_195,"A mass is identified in the left breast at the 7 o'clock position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_196,"The right breast at the 10-11 o'clock position shows a mass, and further evaluation reveals a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_197,"A mass is seen in the left breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_198,"A mass is identified in the left breast at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_199,"The right breast exhibits a mass at the 3 o'clock 1 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_200,"A mass is visualized in the right breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_201,"A mass is seen in the right breast at the 9:30 o'clock position, exhibiting a multifocal disease pattern."
+Breast_MRI_202,"A mass is seen in the left breast, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_203,A mass is visualized in the left breast.
+Breast_MRI_204,A mass is seen in the right breast at the 10 o'clock position.
+Breast_MRI_205,"A mass is visualized in the deep aspect of the right breast at the 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy and pectoral muscle involvement."
+Breast_MRI_206,A mass is present in the left breast at the 12 o'clock position.
+Breast_MRI_207,A mass is visualized in the right breast at the 12 o'clock position.
+Breast_MRI_208,"The right breast shows a mass, accompanied by suspicious axillary lymphadenopathy, and demonstrates a multicentric or multifocal disease pattern; additionally, suspicious findings are also noted in the contralateral breast."
+Breast_MRI_209,"A mass is identified in the right breast at the 1 o'clock 12 position, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_210,A mass is identified in the left breast's lower inner quadrant.
+Breast_MRI_211,"In the heterogeneous breast tissue, a 2.1 cm irregularly shaped mass with a hypoechoic appearance is seen at the 9-10 o'clock 10 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_212,The right breast shows an abnormal finding.
+Breast_MRI_213,"A mass is seen in the left breast at the 7 o'clock position, accompanied by suspicious axillary lymphadenopathy, and also exhibiting pectoral muscle involvement."
+Breast_MRI_214,A mass is identified in the 12 o'clock position.
+Breast_MRI_215,A lesion is present in the left breast.
+Breast_MRI_216,No descriptive imaging data available for this patient.
+Breast_MRI_217,"In the left breast, a hypoechoic, irregular mass is seen at the 7 o'clock position, situated within an extremely dense breast tissue."
+Breast_MRI_218,"A 2.3 cm oval mass with circumscribed margins is seen in the breast at the 1 o'clock position, within a moderate density background, and appears hypoechoic in echogenicity."
+Breast_MRI_219,No descriptive imaging data available for this patient.
+Breast_MRI_220,Left breast imaging shows an abnormality.
+Breast_MRI_221,"A mass is seen in the right breast at the 10 o'clock position, with associated suspicious axillary lymphadenopathy, and a multifocal disease pattern."
+Breast_MRI_222,"A mass is seen in the left breast at the 6 o'clock position, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_223,A mass is present in the left breast.
+Breast_MRI_224,"The breast tissue is heterogeneous, with indistinct margins."
+Breast_MRI_225,"A mass is seen in the right breast, situated at the 12 o'clock, 8:30, and 9 o'clock positions."
+Breast_MRI_226,The left breast demonstrates an abnormality.
+Breast_MRI_227,"The left breast reveals a mass at the 2 o'clock position, with a multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_228,Scattered breast tissue is present. A 3 cm
+Breast_MRI_229,"A 2.5 cm irregular, spiculated mass with hyperechoic echogenicity and posterior acoustic shadowing is identified in the axillary region, accompanied by suspicious axillary lymphadenopathy against a background of scattered breast tissue density."
+Breast_MRI_230,The right breast shows a multicentric or multifocal disease pattern.
+Breast_MRI_231,"A mass is identified in the left breast at the 2 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_232,"A 1.5 cm irregularly shaped mass with hypoechoic echogenicity is seen in the 1 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_233,A mass is identified in the right breast at the 10 o'clock position.
+Breast_MRI_234,"The right breast at the 10-12 o'clock position exhibits a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy, and displays a multicentric or multifocal disease pattern."
+Breast_MRI_235,A mass is visualized in the breast at the 2:30 position.
+Breast_MRI_236,"In the right breast at the 9 o'clock position, a 5.5 cm hypoechoic mass with spiculated margins is seen, accompanied by suspicious axillary lymphadenopathy, against a background of scattered breast tissue density."
+Breast_MRI_237,"A mass is identified in the left breast at the 2-3 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_238,"A 6cm mass is seen in the right breast at the 10 o'clock position, 6 cm from the nipple. Associated axillary lymphadenopathy is suspicious, and a multicentric or multifocal disease pattern is present. The pectoral muscle is involved, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_239,"A mass is noted in the right breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_240,"A mass is seen in the right breast at the 10 o'clock position, and concurrent suspicious findings are also noted in the opposite breast."
+Breast_MRI_241,"In the extremely dense breast tissue, a 1.1 cm irregular mass is seen at the 10 o'clock position, with hypoechoic echogenicity. Suspicious axillary lymphadenopathy is also present, and a multicentric or multifocal disease pattern is noted."
+Breast_MRI_242,"A 1.5 cm irregular mass with indistinct margins is seen in the 3 o'clock position, situated within a scattered breast density, accompanied by posterior acoustic shadowing."
+Breast_MRI_243,Left breast imaging reveals a mass with skin or nipple involvement.
+Breast_MRI_244,"In the dense breast tissue, an irregularly shaped, hypoechoic mass with indistinct margins measures 3 cm in size, located in the 8 o'clock position, with associated architectural distortion and posterior acoustic shadowing."
+Breast_MRI_245,"A mass is noted in the right breast at the 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_246,"A mass is seen in the right breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_247,A mass is visualized in the left breast at the 12 o'clock position.
+Breast_MRI_248,Right breast imaging reveals an abnormality.
+Breast_MRI_249,"A mass is seen in the 12 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_250,"A mass is noted in the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_251,"A mass is identified in the left breast at the 8 o'clock position, and there are also suspicious findings noted in the contralateral breast."
+Breast_MRI_252,"A mass is visualized in the left breast at the 12 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, suspicious findings are present in the contralateral breast."
+Breast_MRI_253,A mass is visualized in the right breast.
+Breast_MRI_254,"In the left breast, an irregular mass measuring 1.4 cm is seen in the 9 o'clock position, exhibiting hypoechoic echogenicity and clustered calcifications against a background of extremely dense tissue. Additionally, suspicious axillary lymphadenopathy is noted."
+Breast_MRI_255,"A mass is seen in the right breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_256,"A mass is seen in the left breast at the 3-4 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_257,"A mass is identified in the left breast, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_258,"The left breast imaging reveals a mass with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, with evidence of skin or nipple involvement."
+Breast_MRI_259,A mass is noted in the right breast at the 9 o'clock position.
+Breast_MRI_260,"A mass is identified in the right breast at the 3 o'clock 8 o'clock position, with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_261,"A 1 cm lesion is seen in a heterogeneous breast, accompanied by 0.5 cm calcifications."
+Breast_MRI_262,"A mass is seen in the left breast at the subareolar region, exhibiting a multicentric or multifocal disease pattern, and there are also suspicious findings noted in the contralateral breast."
+Breast_MRI_263,A mass is noted in the right breast at the 12:30 o'clock position.
+Breast_MRI_264,"A mass is identified in the right breast at the 330-4 position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and evidence of skin or nipple involvement."
+Breast_MRI_265,A 3 cm mass with ill-defined margins is noted in the breast at the 9 o'clock position.
+Breast_MRI_266,"A 2.5 cm hypoechoic mass is seen in the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy, and demonstrates a multicentric or multifocal disease pattern."
+Breast_MRI_267,"A mass is seen in the left breast at the 2 o'clock 3 position, with suspicious axillary lymphadenopathy and a multifocal disease pattern."
+Breast_MRI_268,"A mass is seen in the right breast at the 1 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multifocal disease pattern is noted. Additionally, suspicious findings are observed in the contralateral breast."
+Breast_MRI_269,"A 10 cm irregular mass with indistinct margins is seen in the 9 o'clock to 12 o'clock position of the breast, with pleomorphic calcifications and scattered breast density. The mass is isoechogenic"
+Breast_MRI_270,"A mass is seen in the left breast, approximately 4 cm from the nipple at the 4 o'clock position."
+Breast_MRI_271,"A 3.2 cm irregular, spiculated mass with associated calcifications is seen in the 2-3 o'clock position of the breast, within a heterogeneous density background, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_272,A mass is seen in the left breast.
+Breast_MRI_273,"The left breast demonstrates a mass located in the inferior region, with a multicentric or multifocal disease pattern."
+Breast_MRI_274,"A mass is seen in the central region of the right breast, spanning the 12:30-1 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_275,"A mass is seen in the right breast at the 11 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_276,"A mass is seen in the deep aspect of the left breast, with a pattern of multicentric or multifocal disease."
+Breast_MRI_277,A mass is seen in the left breast at the 2 o'clock position.
+Breast_MRI_278,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_279,A mass is seen in the left breast.
+Breast_MRI_280,"A mass is seen in the 12 o'clock position of the breast, situated against a background of scattered fibroglandular density, with linear calcifications noted in association with the lesion."
+Breast_MRI_281,"A 2.5 cm abnormality is seen in the breast tissue, which is scattered in density."
+Breast_MRI_282,"A mass is seen in the right breast at the 9 o'clock position, with suspicious ipsilateral axillary lymphadenopathy, and a pattern of multicentric or multifocal disease is noted."
+Breast_MRI_283,"A mass is seen in the left breast at the 7 o'clock position, with involvement of the pectoral muscle."
+Breast_MRI_284,A mass is noted in the left breast at the 11 o'clock position.
+Breast_MRI_285,"A mass is seen in the left breast at the 2 o'clock position, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_286,"A mass is seen in the left breast at the 2 o'clock position, approximately 10 cm from the nipple, and is accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_287,"A mass is seen in the left breast, spanning the 12-1 o'clock and 10 o'clock positions, with a pattern of multicentric or multifocal disease."
+Breast_MRI_288,"A mass is seen in the right breast at the 11 o'clock position, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_289,A mass is visualized in the right breast.
+Breast_MRI_290,"The right breast exhibits a mass at the 10, 9, and 12 o'clock positions, accompanied by suspicious axillary lymphadenopathy. Additionally, a multicentric or multifocal disease pattern is present, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_291,"In the 10 o'clock position, an irregular, hypoechoic mass measuring approximately 1 cm in diameter is seen, with a pattern of multicentric or multifocal disease."
+Breast_MRI_292,"A 2 cm irregular mass with spiculated margins is seen in the 12 o'clock position of the breast, exhibiting hypoechoic echogenicity and posterior acoustic shadowing. The breast tissue is heterogeneous in density, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_293,"The left breast exhibits a mass at the 11 o'clock position, with a multicentric or multifocal disease pattern, and demonstrates skin or nipple involvement."
+Breast_MRI_294,A mass is seen in the right breast at the 1 o'clock position.
+Breast_MRI_295,A mass is seen in the right breast at the 1 o'clock position.
+Breast_MRI_296,No descriptive imaging data available for this patient.
+Breast_MRI_297,"A mass is identified in the left breast, posterior and superiorly located at the 1 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_298,"A mass is seen in the left breast at the 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, with a pattern of multicentric or multifocal disease."
+Breast_MRI_299,A mass is seen in the right breast.
+Breast_MRI_300,"A mass is seen in the left breast at the 10 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_301,"A 1.5 cm irregularly shaped mass with indistinct margins is seen in the 11 o'clock position of the breast, which appears solid on ultrasound and has an anechoic echogenicity. The surrounding breast tissue is heterogeneous in density. Additionally, suspicious axillary lymphadenopathy is present, and a multicentric or multifocal disease pattern is noted."
+Breast_MRI_302,A mass is seen in the right breast at the 10 o'clock position.
+Breast_MRI_303,"In the breast tissue with scattered fibroglandular density, a 3 cm irregular mass is seen at the 5:30 position, characterized by indistinct margins, hypoechoic echogenicity, and the presence of two calcifications."
+Breast_MRI_304,"Multicentric or multifocal disease is present in the breast, with skin or nipple involvement."
+Breast_MRI_305,A mass is visualized in the left breast at the 1 o'clock position.
+Breast_MRI_306,"A mass is seen at the 1 o'clock position with calcifications, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_307,"A mass is seen in the left breast at the 11 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_308,"A mass is seen in the left breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_309,"A mass is visualized in the right breast, with suspicious findings also present in the contralateral breast."
+Breast_MRI_310,Skin or nipple involvement is present.
+Breast_MRI_311,"A mass is identified in the left breast at the subareolar region, situated at the 4:30 position, with a pattern of multicentric or multifocal disease. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_312,A mass is visualized in the centraposterior region of the right breast at the 9 o'clock position.
+Breast_MRI_313,"A mass is identified in the left breast, associated with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_314,"A mass is visualized in the left breast, without calcifications."
+Breast_MRI_315,"A mass is visualized in the left breast at the 2 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, accompanied by skin or nipple involvement."
+Breast_MRI_316,"A mass is identified in the left breast at the 12 o'clock position, with a concurrent multicentric or multifocal disease pattern."
+Breast_MRI_317,"A mass is identified in the left breast at the 12 o'clock position, with suspicious findings concurrently present in the contralateral breast."
+Breast_MRI_318,"A mass is identified in the right breast at the 4 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_319,"A mixed echogenicity mass with ill-defined margins is seen in the 12 o'clock position of the breast, both with and without associated calcifications, accompanied by architectural distortion in the surrounding tissue, against a background of scattered breast density."
+Breast_MRI_320,"A mass is seen in the left breast at the 8 o'clock 4 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multifocal disease pattern."
+Breast_MRI_321,"In the heterogeneous breast tissue, a 3 cm hypoechoic mass with ill-defined margins is identified at the 1 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_322,"A mass is visualized in the left breast, spanning the 12-1 o'clock position."
+Breast_MRI_323,"A mass is seen in the right breast at the 11 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_324,"In the right breast, a mass is seen at the 3 o'clock 9 position, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_325,No descriptive imaging data available for this patient.
+Breast_MRI_326,"A mass is seen in the right breast at the 9 o'clock position, with additional suspicious findings observed in the contralateral breast."
+Breast_MRI_327,"A mass is seen in the right breast at the 8 o'clock to 11 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_328,"A mass is identified in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_329,A mass is identified in the left breast at the 1 o'clock position.
+Breast_MRI_330,A mass is seen in the left breast at the 8 o'clock position.
+Breast_MRI_331,"A mass is seen in the left breast at the 12:30 o'clock position, with a multicentric or multifocal disease pattern, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_332,A mass is visualized in the right breast at the 1 o'clock position.
+Breast_MRI_333,"In the breast, an extremely dense parenchyma is present. A 1.5 cm hypoechoic mass with circumscribed margins is visualized at the 1:30 position."
+Breast_MRI_334,A mass is identified in the left breast at the 5 o'clock position.
+Breast_MRI_335,"A heterogeneous breast parenchyma is seen, with an irregular mass measuring 1.5 cm in the 2 o'clock position, featuring obscured margins, posterior acoustic shadowing, and suspicious axillary lymphadenopathy."
+Breast_MRI_336,"In the right breast at the 11 o'clock position, an irregularly shaped, 0.6 cm hypoechoic mass with indistinct margins is seen against a background of scattered breast density."
+Breast_MRI_337,"Multifocal lesions are present in the left breast, exhibiting a multicentric disease pattern."
+Breast_MRI_338,"A 2.5 cm irregular, spiculated mass with hypoechoic echogenicity and posterior acoustic shadowing is seen in the breast at the 10 o'clock position, within a background of scattered density, and is accompanied by suspicious axillary lymphadenopathy, with a noted multicentric or multifocal disease pattern."
+Breast_MRI_339,"A mass is noted in the right breast, situated in the 6 o'clock retroareolar position."
+Breast_MRI_340,"A mass is seen in the left breast, extending across the 9 o'clock, 11 o'clock, and 12 o'clock positions, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_341,"A mass is visualized in the right breast at the 12 o'clock position, and concurrent suspicious findings are also seen in the contralateral breast."
+Breast_MRI_342,A mass is present in the right breast.
+Breast_MRI_343,"In the heterogeneous breast tissue, a 1.2 cm mass with indistinct margins is seen in the 2:30 position, exhibiting microcalcifications and a heterogeneously echogenic appearance"
+Breast_MRI_344,A mass is identified in the right breast at the 10 o'clock position.
+Breast_MRI_345,"In the dense breast tissue, a 2.9 cm hypoechoic mass is visualized in the 12 o'clock position, with circumscribed margins."
+Breast_MRI_346,"A mass is seen in the right breast at the 12-1 position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_347,"A mass is noted in the right breast, with and without calcifications."
+Breast_MRI_348,"A mass is seen in the left breast at the L-R position, with suspicious axillary lymphadenopathy and a pattern of multicentric or multifocal disease."
+Breast_MRI_349,"A mass is identified in the left breast at the 2 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_350,"A mass is identified in the left breast at the 1 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is also noted."
+Breast_MRI_351,"A mass is seen in the right breast at the 1 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_352,"A mass is seen in the right breast at the 6:30 o'clock position, exhibiting a multifocal disease pattern."
+Breast_MRI_353,"Left breast imaging reveals a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_354,"A mass is seen in the left breast at the 2 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is also present."
+Breast_MRI_355,A mass is seen in the left breast at the 3 o'clock retroareolar position.
+Breast_MRI_356,"The left breast exhibits a mass at the 6 o'clock 3 position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_357,"In the right breast at the 10 o'clock position, a 1.5 cm irregular mass with spiculated margins and hypoechoic echogenicity is seen against a background of scattered breast tissue."
+Breast_MRI_358,"A mass is visualized in the upper outer quadrant, specifically at the 9-10 o'clock position."
+Breast_MRI_359,"A mass is visualized in the low-lying quadrant of the right breast, exhibiting a multicentric or multifocal disease pattern. Additionally, skin or nipple involvement is present, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_360,"In the dense breast tissue, an irregularly shaped, hypoechoic lesion is seen, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_361,"A 1 cm oval mass with mixed echogenicity is seen in the right breast at the 3 o'clock position, situated within heterogeneous breast tissue, with obscured margins."
+Breast_MRI_362,The left breast exhibits a multicentric or multifocal disease pattern.
+Breast_MRI_363,"A mass is identified in the left breast at the 3 o'clock position, exhibiting a multicentric or multifocal disease pattern, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_364,"A mass is seen in the right breast at the 9 o'clock 12 position, with additional suspicious findings also present in the contralateral breast."
+Breast_MRI_365,"A 1.2 cm hypoechoic mass is seen in the right breast at the 1 o'clock position, exhibiting a multicentric or multifocal disease pattern. Additionally, suspicious findings are present in the contralateral breast."
+Breast_MRI_366,"A mass is present in the left breast, exhibiting a multicentric or multifocal disease pattern, with additional involvement of the skin or nipple."
+Breast_MRI_367,"A mass is identified in the left breast at the 3 o'clock posterior position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_368,"A mass is seen in the left breast at the 3 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy and concurrent suspicious findings in the contralateral breast."
+Breast_MRI_369,"A 2.5 cm mass with a linear pattern of calcifications is visualized in the left breast at the 2 o'clock position, situated within a heterogeneous background."
+Breast_MRI_370,A mass is identified in the left breast at the 1 o'clock position.
+Breast_MRI_371,"A mass is seen in the right breast at the 8 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and there are also suspicious findings noted in the contralateral breast."
+Breast_MRI_372,"In the left breast, a mass is identified at the 1-3 o'clock position, with associated suspicious ipsilateral axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_373,A mass is seen in the upper inner quadrant of the breast.
+Breast_MRI_374,"The left breast demonstrates a mass with a multicentric or multifocal disease pattern, further complicated by skin or nipple involvement."
+Breast_MRI_375,"A mass is identified in the left breast, situated at the 9:30 o'clock and 10 o'clock positions, with a pattern of multicentric or multifocal disease. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_376,"In the predominantly fatty breast, a 1.3 cm oval mass with spiculated margins is seen at the 3 o'clock 2 position, with a corresponding multicentric or multifocal disease pattern."
+Breast_MRI_377,"A multifocal breast lesion is identified in the left breast, with multiple areas of abnormality present."
+Breast_MRI_378,"In the 1-2 o'clock position of the breast, a 3.4 cm irregular mass with spiculated margins is seen, situated within a heterogeneous background tissue."
+Breast_MRI_379,A mass is seen in the left breast at the 12 o'clock position.
+Breast_MRI_380,An abnormality is visualized in the left breast.
+Breast_MRI_381,"A 1 cm irregular, ill-defined mass with hypoechoic echogenicity is seen in the 1-2 o'clock position of the breast, surrounded by heterogeneous tissue, with 0 and 5 calcifications present."
+Breast_MRI_382,The right breast reveals a mass with skin or nipple involvement.
+Breast_MRI_383,"A mass is seen in the right breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_384,Suspicious axillary lymphadenopathy is noted.
+Breast_MRI_385,"A mass is seen in the left breast at the 2 o'clock 11 o'clock position, with suspicious ipsilateral axillary lymphadenopathy and evidence of multicentric or multifocal disease. Additionally, there is skin or nipple involvement."
+Breast_MRI_386,"A mass is seen in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_387,"A mass is seen in the right breast, spanning the 12-6 o'clock position, with associated suspicious ipsilateral axillary lymphadenopathy and a pattern of multicentric or multifocal disease."
+Breast_MRI_388,A mass is identified in the left breast.
+Breast_MRI_389,"A mass is identified in the left breast at the 1-2 o'clock position, with suspicious findings concurrently noted in the contralateral breast."
+Breast_MRI_390,"A mass is identified in the 4 o'clock position, part of a larger multicentric or multifocal disease pattern."
+Breast_MRI_391,"A mass is identified in the right breast at the 1 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_392,"A mass is visualized in the right breast at the 10 o'clock position, with associated suspicious ipsilateral axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_393,A mass is seen in the left breast at the 3 o'clock position.
+Breast_MRI_394,The upper outer quadrant of the breast displays a mass with a multicentric or multifocal disease pattern.
+Breast_MRI_395,A mass is noted in the right breast at the 9 o'clock position.
+Breast_MRI_396,"A 0.8 cm oval, hypoechoic lesion is noted in a heterogeneous breast background."
+Breast_MRI_397,"The left breast exhibits a mass at the 6 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_398,"A mass is seen in the right breast at the 9 o'clock position, accompanied by pleomorphic calcifications, and is associated with suspicious axillary lymphadenopathy. Additionally, suspicious findings are also noted in the contralateral breast."
+Breast_MRI_399,"The left breast imaging shows an irregular, spiculated mass measuring 1.3 cm in the 11 o'clock position, with hypoechoic echogenicity, posterior acoustic shadowing, and a heterogeneous background, demonstrating a multicentric or multifocal disease pattern."
+Breast_MRI_400,"A 4.8 cm lobular mass with microcalcifications is seen in the 9 o'clock medial position of the breast, with a solid appearance on ultrasound, set against a heterogeneous background. Suspicious axillary lymphadenopathy is also present."
+Breast_MRI_401,"A mass is identified in the left breast at the 3 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is also noted."
+Breast_MRI_402,No descriptive imaging data available for this patient.
+Breast_MRI_403,"Imaging reveals a mass in the left breast, with evidence of multicentric or multifocal disease. Additionally, suspicious findings are also present in the contralateral breast."
+Breast_MRI_404,A mass is present in the right breast.
+Breast_MRI_405,A mass is seen in the left breast at the 3 o'clock position.
+Breast_MRI_406,"A mass is seen in the right breast at the 12:30 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern. Additionally, suspicious findings are present in the contralateral breast."
+Breast_MRI_407,"Imaging reveals a mass in the left breast, accompanied by suspicious axillary lymphadenopathy, and also shows suspicious findings in the contralateral breast."
+Breast_MRI_408,"In the 11 o'clock position of the breast, a 1.5 cm lobular mass with mixed echogenicity is seen, situated within a background of extremely dense tissue. Suspicious axillary lymphadenopathy is also noted."
+Breast_MRI_409,A mass is noted at the 1 o'clock position with associated calcifications.
+Breast_MRI_410,"A mass is seen in the left breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_411,A mass is seen in the lower outer quadrant of the right breast.
+Breast_MRI_412,A mass is identified in the upper outer quadrant of the right breast.
+Breast_MRI_413,"A mass is identified in the left breast at the 3 o'clock position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_414,"A mass is identified in the right breast at the 10 o'clock position, with suspicious findings concurrently present in the contralateral breast."
+Breast_MRI_415,A mass is identified in the right breast.
+Breast_MRI_416,"The right breast shows a mass extending across the 8, 5-8, and 10 o'clock positions, accompanied by suspicious ipsilateral axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_417,"A mass is seen in the right breast at the 12 o'clock position, and concurrent with this finding, suspicious abnormalities are also present in the contralateral breast."
+Breast_MRI_418,"A mass is visualized in the subareolar region of the left breast at the 12 o'clock to 4 o'clock position, with associated suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_419,A mass is seen at the 6 o'clock position.
+Breast_MRI_420,"A mass is identified in the right breast at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_421,A mass is visualized in the right breast at the 1 o'clock position.
+Breast_MRI_422,"A mass is identified in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_423,"A mass is seen in the 8 o'clock position of the breast, situated against a background of scattered fibroglandular density, accompanied by clustered calcifications."
+Breast_MRI_424,"A 4.3 cm irregular, hypoechoic mass with pleomorphic calcifications is seen in the 9 o'clock position of the breast, situated within a background of extremely dense tissue. Additionally, suspicious axillary lymphadenopathy is present."
+Breast_MRI_425,"A heterogeneous density background is seen, with a 0.8 cm mass at the 11 o'clock position, featuring indistinct margins and posterior acoustic shadowing."
+Breast_MRI_426,"The right breast at the 12:30 o'clock position displays a mass with a multicentric or multifocal disease pattern, and concurrent suspicious findings are also present in the contralateral breast."
+Breast_MRI_427,A mass is seen in the left breast.
+Breast_MRI_428,"A mass is visualized in the left breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_429,"A mass is identified in the right breast at the 10 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_430,"A mass is seen in the right breast at the 10-11 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_431,"A mass is identified in the right breast at the 12 o'clock position, accompanied by suspicious axillary lymphadenopathy. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_432,"A mass is visualized in the right breast at the 1 o'clock position, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_433,"A mass is seen in the right breast at the 9 o'clock to 10 o'clock position, exhibiting a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_434,A mass is identified in the left breast at the 9 o'clock position.
+Breast_MRI_435,"In the heterogeneous breast tissue, a 2.9 cm lobular mass with indistinct margins is seen at the 10 o'clock position, exhibiting hypoechoic echogenicity. Notably, suspicious axillary lymphadenopathy is also present."
+Breast_MRI_436,"A mass is identified in the left breast at the 2 o'clock to 12 o'clock position, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_437,"A mass is seen in the right breast at the 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_438,"A mass is seen in the right breast at the 11 o'clock, 2 anterior position, with suspicious axillary lymphadenopathy and a multifocal disease pattern."
+Breast_MRI_439,"A mass is seen in the left breast at the 5 o'clock position, exhibiting a multicentric or multifocal disease pattern, with extension to the skin or nipple. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_440,"A 0.7 cm hypoechoic mass with indistinct margins is seen in heterogeneous breast tissue, accompanied by associated calcifications."
+Breast_MRI_441,"The left breast exhibits an extremely dense background, featuring an irregular, spiculated mass measuring 3.1 cm in diameter, with hypoechoic echogenicity, posterior acoustic shadowing, and associated pleomorphic calcifications and architectural distortion, accompanied by suspicious axillary lymphadenopathy, and demonstrating a multicentric or multifocal disease pattern."
+Breast_MRI_442,"In the left breast, an irregularly shaped mass measuring 1.5 cm in diameter is seen at the 11 o'clock position, exhibiting anechoic echogenicity, a solid appearance on ultrasound, and posterior acoustic shadowing, within an extremely dense breast, accompanied by associated architectural distortion."
+Breast_MRI_443,A mass is noted in the left breast at the 12 o'clock position.
+Breast_MRI_444,"A mass is present in the right breast, accompanied by suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, with skin or nipple involvement."
+Breast_MRI_445,"A mass is seen in the right breast at the 2 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_446,"A mass is noted in the right breast at the 10 o'clock position, situated superficially."
+Breast_MRI_447,"A mass is identified in the right breast, with skin or nipple involvement observed."
+Breast_MRI_448,No descriptive imaging data available for this patient.
+Breast_MRI_449,"A mass is visualized in the left breast, with one lesion located 1 cm from the nipple and another 4 cm from the nipple, both with and without associated calcifications, at the 3 o'clock position; additionally, suspicious axillary lymphadenopathy is also noted."
+Breast_MRI_450,A mass is seen in the left breast at the 12 o'clock position.
+Breast_MRI_451,"A mass is identified in the left breast at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease is seen."
+Breast_MRI_452,"In the breast, a 3 cm irregular, spiculated mass is seen in the 11 o'clock position, situated against a background of scattered fibroglandular tissue."
+Breast_MRI_453,"A mass is seen in the right breast at the 2 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_454,"A mass is identified in the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_455,A mass is identified in the left breast at the 3 o'clock position.
+Breast_MRI_456,"The right breast at the 6 o'clock position exhibits a mass, and imaging suggests a multicentric or multifocal disease pattern."
+Breast_MRI_457,The left breast imaging reveals an abnormality.
+Breast_MRI_458,A mass is identified in the left breast at the 11 o'clock position.
+Breast_MRI_459,"A mass is seen in the right breast at the 5-6 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and exhibiting a multifocal disease pattern."
+Breast_MRI_460,No descriptive imaging data available for this patient.
+Breast_MRI_461,"A 5 cm irregular mass with spiculated margins is seen in the left breast at the 10 o'clock 6 o'clock position, exhibiting a multicentric or multifocal disease pattern, against a background of heterogeneous density, with skin or nipple involvement also noted."
+Breast_MRI_462,A mass is visualized in the right breast at the 1 o'clock position.
+Breast_MRI_463,"A mass is noted in the right breast, situated at the 5:30 o'clock to 6 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_464,"In the heterogeneous breast tissue, a 3 cm oval mass with indistinct margins is seen in the 8 o'clock position, appearing solid on ultrasound."
+Breast_MRI_465,"The left breast exhibits a mass, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, and demonstrates skin or nipple involvement; additionally, suspicious findings are also present in the contralateral breast."
+Breast_MRI_466,"A mass is visualized in the right breast, approximately 9 cm from the nipple, at the 10 o'clock position."
+Breast_MRI_467,"A 3.5 cm irregularly shaped mass with hypoechoic echogenicity is seen in the heterogeneous breast tissue, accompanied by pleomorphic calcifications, posterior acoustic shadowing, and associated architectural distortion."
+Breast_MRI_468,"The right breast shows a mass with associated suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_469,No descriptive imaging data available for this patient.
+Breast_MRI_470,"A mass is seen in the right breast at the 12 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_471,No descriptive imaging data available for this patient.
+Breast_MRI_472,A mass is present in the left breast.
+Breast_MRI_473,"A mass is visualized in the 2 o'clock position of the breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_474,"The right breast imaging reveals a mass at the 1 o'clock position, accompanied by suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, skin or nipple involvement is observed, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_475,"A mass is seen in the left breast at the 2 o'clock position, approximately 4 cm from the nipple, with associated suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_476,"A mass is visualized in the left breast, primarily located in the 11-12 o'clock position."
+Breast_MRI_477,A mass is visualized in the right breast at the 6 o'clock position.
+Breast_MRI_478,The left breast shows a multicentric or multifocal pattern with a mass present.
+Breast_MRI_479,A mass is identified in the left breast at the 7 o'clock position.
+Breast_MRI_480,"A mass is seen in the left breast at the 1 o'clock superiomed depth position, with suspicious axillary lymphadenopathy. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_481,"A mass is seen in the left breast, situated at the 2 o'clock and 3 o'clock positions, subareolarly, with a second focus at the 2 o'clock position. Additionally, suspicious axillary lymphadenopathy is present, and the disease appears to have a multicentric or multifocal pattern."
+Breast_MRI_482,"A mass is noted in the right breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_483,A mass is seen in the right breast at the 12 o'clock position.
+Breast_MRI_484,"The right breast shows a mass at the 11 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_485,No descriptive imaging data available for this patient.
+Breast_MRI_486,"Imaging reveals a mass in the right breast at the 10 o'clock position, with suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_487,"An irregular, hypoechoic mass measuring approximately 4 cm in size is seen in the left breast, situated between the 8 and 9 o'clock positions. The lesion is accompanied by clustered calcifications and demonstrates a multicentric or multifocal disease pattern."
+Breast_MRI_488,"In the heterogeneous breast tissue, a 1.1 cm oval mass with indistinct margins is seen at the 1 o'clock position, with a solid appearance on ultrasound and a well-defined boundary."
+Breast_MRI_489,"A mass is seen in the left breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease is also present."
+Breast_MRI_490,"A mass is seen in the left breast at the 11 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_491,"A mass is seen in the right breast at the 6 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_492,A mass is identified in the right breast at the 10 o'clock position.
+Breast_MRI_493,"A mass is seen in the upper quadrant of the right breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_494,A mass is identified in the upper outer quadrant of the right breast.
+Breast_MRI_495,"A mass is seen in the left breast at the 3 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_496,"A mass is seen in the left breast at the 9 o'clock position, accompanied by calcifications, with a pattern of multicentric or multifocal disease."
+Breast_MRI_497,"A mass is seen in the right breast at the 11 o'clock position, with concurrent suspicious findings noted in the contralateral breast."
+Breast_MRI_498,The right breast at the 4-5 o'clock position exhibits an abnormality.
+Breast_MRI_499,"A mass is seen at the 10 o'clock position, with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_500,"The right breast shows a mass at the central position, with a multicentric or multifocal disease pattern."
+Breast_MRI_501,"A mass is seen in the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_502,A mass is seen in the right breast at the 9 o'clock position.
+Breast_MRI_503,"A mass is identified in the left breast at the 2 o'clock position, with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_504,"A heterogeneous breast parenchyma is seen. A 0.8 cm hypoechoic mass with indistinct margins is present at the 10 o'clock position, extending into the 12 o'clock position, with and without calcifications. Concomitantly, suspicious findings are noted in the contralateral breast."
+Breast_MRI_505,A mass is seen in the left breast at the 2 o'clock position.
+Breast_MRI_506,"A 1.5 cm irregular, spiculated mass with hypoechoic echogenicity is seen at the 1 o'clock position, accompanied by posterior acoustic shadowing. Suspicious axillary lymphadenopathy is also present."
+Breast_MRI_507,"A mass is seen in the left breast at the 6 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy and a pattern of multicentric or multifocal disease."
+Breast_MRI_508,"A mass is seen in the right breast at the 4 o'clock 5 o'clock position, with associated suspicious axillary lymphadenopathy, multifocal disease, and evidence of pectoral muscle and skin or nipple involvement."
+Breast_MRI_509,"A mass is visualized in the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_510,The right breast exhibits a multifocal or multicentric pattern of disease.
+Breast_MRI_511,"The right breast shows a mass at the 11 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_512,"A mass is noted in the right breast axilla, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_513,"A mass is identified in the left breast at the 2 o'clock position, with a multifocal disease pattern extending beyond the primary lesion."
+Breast_MRI_514,"A mass is noted in the right breast at the 10 o'clock position, with associated suspicious axillary lymphadenopathy, and a multifocal disease pattern is also present."
+Breast_MRI_515,The right breast shows a multicentric or multifocal disease pattern.
+Breast_MRI_516,"A mass is seen in the right breast at the 5 o'clock anterior position, with associated calcifications."
+Breast_MRI_517,Skin or nipple involvement is present.
+Breast_MRI_518,No mass is identified.
+Breast_MRI_519,A mass is identified in the right breast at the 1 o'clock position.
+Breast_MRI_520,"In the extremely dense breast tissue, a 1 cm irregular mass with hypoechoic echogenicity and indistinct margins is identified."
+Breast_MRI_521,"A mass is seen in the left breast at the 12 o'clock medial position, with associated suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is suspected."
+Breast_MRI_522,A mass is seen in the left breast at the 6 o'clock position.
+Breast_MRI_523,"A mass is identified in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_524,"A mass is identified in the right breast, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also noted in the contralateral left breast."
+Breast_MRI_525,"A mass is seen in the left breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_526,The left breast shows a multifocal or multicentric disease pattern.
+Breast_MRI_527,"A mass is identified in the right breast, accompanied by suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_528,"A mass is seen in the left breast at the 4 o'clock position, with associated calcifications."
+Breast_MRI_529,"A mass is present at the 12 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_530,"In the heterogeneous breast tissue, an irregularly shaped mass measuring 0.9 cm is seen in the 6 o'clock region and 9 o'clock region, with and without associated calcifications, and exhibits irregular echogenicity. The lesion is part of a multicentric or multifocal disease pattern."
+Breast_MRI_531,A mass is seen in the left breast at the 1 o'clock position.
+Breast_MRI_532,"A mass is identified in the 9 o'clock position, part of a larger multicentric or multifocal disease pattern."
+Breast_MRI_533,"A mass is visualized in the left breast at the 11 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_534,"The left breast reveals a mass at the 1 o'clock 130 position, accompanied by suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, with additional findings of skin or nipple involvement."
+Breast_MRI_535,"A mass is visualized in the left breast at the 2 o'clock to 3 o'clock position, with associated suspicious axillary lymphadenopathy, multicentric or multifocal disease, and skin or nipple involvement. Additionally, there is pectoral muscle involvement."
+Breast_MRI_536,"A mass is identified in the right breast, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_537,"A mass is seen in the right breast at the 5 o'clock 11 o'clock position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_538,"A mass is identified in the right breast at the 8:30 o'clock position, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_539,"A mass is visualized in the right breast, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_540,"A mass is visualized in the left breast at the 12 o'clock 330 position, with a multicentric or multifocal disease pattern; concurrent suspicious findings are noted in the contralateral breast."
+Breast_MRI_541,"A mass is visualized in the left breast at the 4 o'clock position, with suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_542,"In the heterogeneous breast tissue, a 1.5 cm irregular mass with pleomorphic calcifications is visualized in the 7 o'clock position, with indistinct margins."
+Breast_MRI_543,"A mass is visualized in the right breast, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_544,"In the left breast, an irregular, hypoechoic mass measuring approximately 1 cm in size is seen, accompanied by posterior acoustic shadowing and pleomorphic calcifications. The breast tissue is extremely dense. Additionally, suspicious axillary lymphadenopathy is present."
+Breast_MRI_545,"The heterogeneous breast tissue shows a 3 cm irregular, spiculated mass in the LATERAL-DEEP, MEDIAL region, with a multicentric or multifocal disease pattern and pectoral muscle involvement."
+Breast_MRI_546,"A mass is seen in the right breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, skin or nipple involvement is noted."
+Breast_MRI_547,No descriptive imaging data available for this patient.
+Breast_MRI_548,"A mass is seen in the left breast at the 2 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_549,A left breast mass is visualized.
+Breast_MRI_550,"The right breast shows a mass at the 12 o'clock position, with a multifocal or multicentric pattern of disease."
+Breast_MRI_551,A mass is seen in the left breast at the 11 o'clock position.
+Breast_MRI_552,"Left breast imaging reveals a mass, accompanied by suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_553,"A mass is seen in the right breast, situated between the 10 and 11 o'clock positions."
+Breast_MRI_554,A mass is present in the left breast at the 1 o'clock position.
+Breast_MRI_555,
+Breast_MRI_556,"A 2 cm spiculated mass is seen in both the left and right breasts, with a predominantly fatty background. Suspicious findings are also present in the contralateral breast."
+Breast_MRI_557,"A mass is seen in the upper-outer quadrant of the left breast, accompanied by suspicious axillary lymphadenopathy, and contralateral breast imaging reveals additional suspicious findings."
+Breast_MRI_558,A mass is identified in the left breast at the 2 o'clock position.
+Breast_MRI_559,"A mass is seen in the right breast at the 10 o'clock position, with suspicious axillary lymphadenopathy. Additionally, a multicentric or multifocal disease pattern is present, and suspicious findings are noted in the contralateral breast."
+Breast_MRI_560,"A 2.9 cm oval mass with obscured margins is seen in the left breast at the 6 o'clock position, situated within a heterogeneous breast tissue, with a hypoechoic appearance."
+Breast_MRI_561,"A mass is visualized in the left breast at the 12 o'clock position, accompanied by suspicious axillary lymphadenopathy. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_562,"A mass is seen in the left breast at the 6 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_563,"The right breast imaging reveals a mass with associated multicentric or multifocal disease, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement. Additionally, suspicious findings are also noted in the contralateral breast."
+Breast_MRI_564,"The left breast at the 3-4 o'clock 11 o'clock position shows a mass, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_565,A mass is identified in the right breast at the 11 o'clock position.
+Breast_MRI_566,"The right breast shows a mass located at the 4-5 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_567,"The right breast exhibits a multicentric or multifocal disease pattern, with skin or nipple involvement."
+Breast_MRI_568,"A mass is seen in the left breast, superiorly situated between the 11 and 12 o'clock positions."
+Breast_MRI_569,A mass is present in the left breast at the 2 o'clock position.
+Breast_MRI_570,No descriptive imaging data available for this patient.
+Breast_MRI_571,"A mass is seen in the left breast at the 1 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_572,A mass is identified in the right breast at the 6 o'clock position.
+Breast_MRI_573,"A mass is visualized in the right breast at the 8 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_574,"A mass is identified in the upper quadrant of the left breast, located at the midline."
+Breast_MRI_575,"Multiple masses are visualized in the right breast, located at the 2, 3, 6, and 8 o'clock positions, with suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease is present."
+Breast_MRI_576,"I apologize, but the descriptors provided do not specify the location of the calcifications in relation to the mass. The report should be rewritten to accurately reflect the provided information. Here is a revised report:"
+Breast_MRI_577,"A mass is seen in the left breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_578,"A 1.4 cm irregular mass with hypoechoic echogenicity is seen at the 9 o'clock position, featuring posterior acoustic shadowing. Suspicious axillary lymphadenopathy is present, and a multicentric or multifocal disease pattern is suspected."
+Breast_MRI_579,"A mass is seen in the upper outer quadrant of the left breast, with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_580,"A mass is seen in the right breast, situated at the 7:30 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_581,"A mass is seen in the left breast at the 12 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_582,The left breast exhibits a multicentric or multifocal pattern of disease.
+Breast_MRI_583,"A mass is noted in the right breast at the 9 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_584,No descriptive imaging data available for this patient.
+Breast_MRI_585,The examination reveals a complex breast lesion exhibiting a multicentric or multifocal disease pattern.
+Breast_MRI_586,"A mass is identified in the right breast at the 12 o'clock central position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_587,A mass is visualized in the right breast at the 12 o'clock position.
+Breast_MRI_588,A mass is visualized in the left breast at the 12 o'clock position.
+Breast_MRI_589,The left breast demonstrates an abnormal finding.
+Breast_MRI_590,"Left axilla demonstrates a mass at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_591,"A mass is identified in the right breast at the lateral-central position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_592,"A mass is evident in the left breast at the 9 o'clock position, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_593,"In the heterogeneous breast tissue, an irregular, hypoechoic mass measures 1 cm in size, with indistinct margins, located at the 2 o'clock position."
+Breast_MRI_594,"In the heterogeneous breast tissue, an irregular, spiculated mass measuring 6 cm is visualized, with hypoechoic echogenicity and associated architectural distortion. Additionally, skin or nipple involvement is present."
+Breast_MRI_595,"A mass is seen in the left breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_596,"A mass is identified in the left breast at the 12 o'clock position, with skin or nipple involvement evident."
+Breast_MRI_597,"Ipsilateral axillary lymphadenopathy is suspicious, and a multicentric or multifocal disease pattern is seen."
+Breast_MRI_598,"A mass is identified in the right breast at the 10 o'clock 2 position, with a multicentric or multifocal disease pattern; additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_599,No descriptive imaging data available for this patient.
+Breast_MRI_600,"A 2.3 cm irregular mass with hypoechoic echogenicity is seen in the right breast at the 9 o'clock position, with posterior acoustic shadowing and pectoral muscle involvement. The breast tissue is scattered in density."
+Breast_MRI_601,"The left breast at the 11 o'clock position reveals a mass, with a multicentric or multifocal disease pattern present. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_602,A mass is noted in the right breast.
+Breast_MRI_603,A mass is seen in the left breast.
+Breast_MRI_604,"In the left breast, a mass is seen at the 2-3 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_605,"A mass is seen in the right breast at the 1 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_606,The left breast exhibits a multifocal mass with a pattern of multicentric disease.
+Breast_MRI_607,"A mass is visualized in the right breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy, and there is also evidence of skin or nipple involvement."
+Breast_MRI_608,An abnormality is present in the left breast.
+Breast_MRI_609,"A mass is seen in the right breast at the 11 o'clock to 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern; additionally, suspicious findings are also noted in the contralateral breast."
+Breast_MRI_610,"A mass is seen in the left breast at the 10-11 o'clock 1 o'clock position, with suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is suspected."
+Breast_MRI_611,"A mass is noted in the left breast at the 4 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_612,"A mass is seen in the left breast at the 2 o'clock 12 position, with suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_613,"The left breast at the 2 o'clock position exhibits a mass, with a pattern of multicentric or multifocal disease."
+Breast_MRI_614,"A mass is identified in the left breast at the 1 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_615,"A mass is identified in the left breast at the 2 o'clock position, with suspicious axillary lymphadenopathy and a multifocal disease pattern. Additionally, suspicious findings are also present in the contralateral breast."
+Breast_MRI_616,"In the predominantly fatty breast, a 3 cm hypoechoic, solid mass with indistinct margins is visualized at the 9 o'clock position, accompanied by suspicious axillary lymphadenopathy. The lesion exhibits a multicentric or multifocal disease pattern, with pectoral muscle involvement noted."
+Breast_MRI_617,A mass is identified in the right breast at the 10 o'clock position.
+Breast_MRI_618,"A mass is visualized in the right breast at the 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_619,The right breast exhibits a multicentric or multifocal disease pattern.
+Breast_MRI_620,"A mass is identified in the right breast at the 4 o'clock position, accompanied by suspicious axillary lymphadenopathy, skin involvement, and pectoral muscle involvement."
+Breast_MRI_621,"A mass is seen in the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_622,"A mass is seen in the left breast axilla at the 230-330 position, with evidence of multicentric or multifocal disease."
+Breast_MRI_623,"In the left breast, an oval mass measuring 1.5 cm in diameter is seen at the 3:30 position, with hypoechoic echogenicity, amidst a background of scattered breast density. Suspicious axillary lymphadenopathy is also present, and the imaging findings are consistent with a multicentric or multifocal disease pattern."
+Breast_MRI_624,A mass is identified in the right breast at the 10 o'clock position.
+Breast_MRI_625,"A mass is visualized in the left breast at the 4 o'clock position, with and without associated calcifications, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_626,"The left breast exhibits a mass at the 6 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_627,A mass is seen in the right breast at the 5 o'clock position.
+Breast_MRI_628,"A mass is visualized in the right breast at the 12 o'clock position, with suspicious findings also present in the contralateral breast."
+Breast_MRI_629,"A mass is visualized in the right breast, situated at the 1-2 o'clock position."
+Breast_MRI_630,A mass is visualized in the right breast.
+Breast_MRI_631,"A mass is identified in the left breast at the 1 o'clock position, with evidence of a multicentric or multifocal disease pattern."
+Breast_MRI_632,"Left breast imaging reveals a mass, with synchronous suspicious findings also present in the contralateral breast."
+Breast_MRI_633,"A mass is seen in the right breast at the 9:30 o'clock position, exhibiting a multicentric or multifocal disease pattern, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_634,Left breast imaging reveals an abnormality.
+Breast_MRI_635,A mass is identified in the 1 o'clock position.
+Breast_MRI_636,"A 1.6 cm hypoechoic mass with ill-defined margins and associated architectural distortion is seen in the breast, situated against a background of scattered fibroglandular density, with suspicious ipsilateral axillary lymphadenopathy also noted."
+Breast_MRI_637,"The right breast imaging reveals a mass, with evidence of multicentric or multifocal disease."
+Breast_MRI_638,"The right breast imaging reveals a mass, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_639,"A mass is seen in the left breast at the 1 o'clock position, and concurrent suspicious findings are noted in the contralateral breast."
+Breast_MRI_640,"In the predominantly fatty breast, a 3.5 cm mass is seen at the 9 o'clock to 10 o'clock position, accompanied by pleomorphic calcifications."
+Breast_MRI_641,"A mass is seen in the right breast at the 7 o'clock to 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_642,A mass is visualized in the right breast at the 12 o'clock position.
+Breast_MRI_643,"A 1 cm irregularly shaped, hypoechoic mass is seen in the heterogeneous breast tissue at the 10 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_644,"The right breast reveals a mass without calcifications, with a multicentric or multifocal disease pattern."
+Breast_MRI_645,"A mass is noted in the right breast, without calcifications."
+Breast_MRI_646,"In the heterogeneous breast tissue, an irregular mass measuring 2.2 cm with hypoechoic echogenicity is identified at the 8 o'clock position, accompanied by suspicious axillary lymphadenopathy and pectoral muscle involvement."
+Breast_MRI_647,"A mass is seen in the right breast at the 9 o'clock to 10 o'clock position, exhibiting a multifocal disease pattern."
+Breast_MRI_648,"In the left breast, a 1.9 cm irregular mass with hypoechoic echogenicity is visualized in the 3 o'clock 7-8 position, with scattered background breast tissue density, and demonstrates a multicentric or multifocal disease pattern."
+Breast_MRI_649,"A 1.4 cm oval mass with indistinct margins is seen in the left breast, situated at the 1 o'clock position, within a heterogeneous background tissue density."
+Breast_MRI_650,"A mass is seen in the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_651,"A mass is seen in the right breast at the 3 o'clock position, accompanied by suspicious axillary lymphadenopathy, against a background of scattered breast tissue density."
+Breast_MRI_652,"Suspicious axillary lymphadenopathy is evident, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_653,"A 1.3 cm irregularly shaped, hypoechoic lesion is visualized in the breast, with associated architectural distortion, and posterior acoustic shadowing noted. The breast tissue is scattered in density."
+Breast_MRI_654,A mass is present in the left breast.
+Breast_MRI_655,"A mass is seen in the right breast at the 12 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_656,A mass is seen in the left breast at the 9 o'clock position.
+Breast_MRI_657,"A mass is identified in the left breast at the 8 o'clock position, and concurrent suspicious findings are also noted in the contralateral breast."
+Breast_MRI_658,"The right breast shows an abnormal finding, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_659,"A mass is noted in the right breast at the 11 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_660,"Imaging of the right breast reveals a mass located in the upper outer quadrant, with a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_661,A mass is present in the right breast at the 2:30 position.
+Breast_MRI_662,A mass is visualized in the upper outer quadrant of the right breast.
+Breast_MRI_663,"A mass is seen in the left breast, extending from the 11:30 to 12 o'clock position, with a multicentric or multifocal disease pattern."
+Breast_MRI_664,The left breast exhibits a multicentric or multifocal disease pattern.
+Breast_MRI_665,A mass is seen in the left breast at the 9 o'clock position.
+Breast_MRI_666,A mass is seen in the 1 o'clock position of the breast.
+Breast_MRI_667,"Imaging of the right breast reveals a suspicious finding, and, concurrently, suspicious changes are also noted in the contralateral breast."
+Breast_MRI_668,"A mass is visualized in the right breast at the 12 o'clock position, accompanied by suspicious axillary lymphadenopathy and pectoral muscle involvement."
+Breast_MRI_669,"The left breast demonstrates a mass at the 8 o'clock lateral, 8 o'clock medial, and 7:30 positions, exhibiting a multicentric or multifocal disease pattern, with skin or nipple involvement. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_670,"A mass is seen in the 5-6 o'clock position of the breast, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_671,"A mass is identified in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_672,"A 2.5 cm irregular mass with spiculated margins is visualized in the breast at the 1 o'clock position, with a scattered background density and evidence of multicentric or multifocal disease."
+Breast_MRI_673,"In the dense left breast, a 1.3 cm lobular mass with circumscribed margins is noted at the 3 o'clock position, exhibiting hypoechoic echogenicity."
+Breast_MRI_674,"In the breast, a 1.9-2.5 cm irregular mass with indistinct margins is visualized in the 9 o'clock to 11:30 position, with an echogenicity of 3-5. The lesion is part of a multicentric or multifocal disease pattern, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_675,"A 6 cm hypoechoic mass with pleomorphic calcifications is seen in the heterogeneous breast tissue, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_676,"A mass is visualized in the left breast at the 11 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_677,"A mass with calcifications is seen in the right breast at the 11 o'clock position, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_678,"In the heterogeneous breast tissue, an irregular mass with spiculated margins is visualized at the 1 o'clock position, measuring 0.9 cm in diameter, accompanied by posterior acoustic shadowing."
+Breast_MRI_679,"A mass is seen in the left breast at the 5 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_680,"The right breast reveals a mass at the 2 o'clock 10 o'clock position, with a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_681,"Right breast imaging reveals a mass, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_682,"The heterogeneous breast tissue of the left breast reveals a 0.9 cm hypoechoic mass at the 10 o'clock to 9:30 position, with suspicious axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_683,"A mass is seen in the left breast, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_684,"A mass is noted in the right breast at the 6 o'clock subareolar position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_685,"A mass is seen in the right breast at the 2-3 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_686,"The right breast at the 2 o'clock 12 position shows a mass, accompanied by suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern; concurrently, suspicious findings are also visualized in the contralateral breast."
+Breast_MRI_687,"A mass is seen in the left breast at the 7 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_688,"Imaging reveals a mass in the left breast, accompanied by suspicious axillary lymphadenopathy and evidence of skin or nipple involvement."
+Breast_MRI_689,"In the heterogeneous breast tissue, a 2.5 cm irregular mass is seen in the 3 o'clock position, with solid appearance on ultrasound and associated architectural distortion. Suspicious axillary lymphadenopathy is also noted."
+Breast_MRI_690,Right breast imaging shows an abnormal finding.
+Breast_MRI_691,The mass is situated in the superior and inferior aspects of the breast.
+Breast_MRI_692,"A 1 cm irregular mass with spiculated margins is seen in the 9:30 position, exhibiting hypoechoic echogenicity and posterior acoustic shadowing, within a scattered breast parenchyma, with evidence of multicentric or multifocal disease."
+Breast_MRI_693,"A mass is seen in the right breast at the 2 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_694,"A mass is seen in the right breast at the 9 o'clock lateral position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_695,"A mass is identified in the left breast at the 3 o'clock position, accompanied by suspicious axillary lymphadenopathy. Furthermore, suspicious findings are also noted in the contralateral breast."
+Breast_MRI_696,"A mass is seen in the left breast at the 8 o'clock position, exhibiting a multicentric or multifocal disease pattern, with additional suspicious findings also present in the contralateral breast."
+Breast_MRI_697,"A mass is seen in the right breast at the 1 o'clock position, with a central location, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_698,"The right breast exhibits a mass, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_699,"In the heterogeneous breast tissue, a 2.1 cm irregular, hypoechoic mass is visualized in the 4 o'clock position."
+Breast_MRI_700,"A mass is identified in the left breast at the 2 o'clock position, with suspicious findings also present in the contralateral breast."
+Breast_MRI_701,"A mass is present in the right breast, with and without calcifications."
+Breast_MRI_702,A mass is visualized in the right breast.
+Breast_MRI_703,"A mass is identified in the left breast at the 5 o'clock position, exhibiting a multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_704,"A mass is identified in the right breast at the 2 o'clock position, accompanied by suspicious axillary lymphadenopathy and evidence of skin or nipple involvement."
+Breast_MRI_705,"The predominantly fatty breast tissue is interrupted by a 1.5 cm hypoechoic mass with indistinct margins situated at the 12 o'clock position. Notably, suspicious findings are also observed in the contralateral breast."
+Breast_MRI_706,No descriptive imaging data available for this patient.
+Breast_MRI_707,The right breast shows an abnormal finding.
+Breast_MRI_708,"A mass is seen in the right breast at the 1-2 o'clock, 6 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_709,"A mass is seen in the right breast at the 11 o'clock position, accompanied by calcifications."
+Breast_MRI_710,"A 7.8 cm oval mass with circumscribed margins is seen in a heterogeneous breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_711,"In the right breast, a mass is seen at the medial, inferior position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_712,Left breast imaging shows an abnormality.
+Breast_MRI_713,A mass is seen in the left breast at a 130 o'clock position.
+Breast_MRI_714,"The left breast imaging shows a mass, and noteworthy are suspicious findings in the contralateral breast as well."
+Breast_MRI_715,"An abnormality is seen in the right breast at the 11 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_716,A multicentric or multifocal disease pattern is seen in the right breast.
+Breast_MRI_717,"A mass is seen in the right breast at the 11 o'clock position, associated with suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern. Additionally, skin or nipple involvement is noted, and suspicious findings are also seen in the contralateral breast."
+Breast_MRI_718,"A mass is visualized in the right breast at the 9 o'clock position, 3 cm from the nipple, with a multicentric or multifocal disease pattern, accompanied by suspicious axillary lymphadenopathy. Additionally, skin or nipple involvement is noted, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_719,A mass is noted in the right breast at the 2 o'clock position.
+Breast_MRI_720,"A 2.4 cm lobular mass is seen in the right breast, positioned between the 11 and 12 o'clock positions, within a predominantly fatty breast background."
+Breast_MRI_721,A mass is visualized in the 6 o'clock position.
+Breast_MRI_722,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_723,A mass is seen in the right breast at the 1 o'clock position.
+Breast_MRI_724,"Left breast imaging reveals a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_725,"A mass is seen in the left breast at the 5 o'clock, 330, 4 position, accompanied by suspicious axillary lymphadenopathy. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_726,No descriptive imaging data available for this patient.
+Breast_MRI_727,A mass is seen in the 3 o'clock position.
+Breast_MRI_728,A right breast abnormality is present.
+Breast_MRI_729,"The left breast shows a mass, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_730,"The left breast imaging reveals a mass, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_731,"A mass is identified in the left breast at the 9 o'clock subareolar position, extending to involve the skin and nipple, with additional findings of pectoral muscle involvement."
+Breast_MRI_732,No descriptive imaging data available for this patient.
+Breast_MRI_733,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_734,"A mass is visualized in the left breast at the 1 o'clock position, and a multicentric or multifocal disease pattern is present, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_735,The right breast imaging shows a mass with pectoral muscle involvement.
+Breast_MRI_736,"In the heterogeneous breast tissue, an irregular, spiculated mass measuring 0.6 cm in maximum dimension is noted."
+Breast_MRI_737,Right breast imaging reveals an abnormal finding.
+Breast_MRI_738,"The left breast shows a mass located at the 6 o'clock superior and inferior positions, with a multicentric or multifocal disease pattern, and involvement of the skin or nipple. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_739,No descriptive imaging data available for this patient.
+Breast_MRI_740,"A 0.6 cm oval mass with indistinct margins is seen in the right breast at the 10 o'clock position, appearing hyperechoic against a background of scattered breast tissue."
+Breast_MRI_741,"A mass is seen in the left breast at the 6 o'clock position, with suspicious findings also present in the contralateral breast."
+Breast_MRI_742,No descriptive imaging data available for this patient.
+Breast_MRI_743,"A 0.7 cm irregular, hypoechoic mass with spiculated margins is seen in the heterogeneous breast tissue at the 10 o'clock position, accompanied by associated calcifications."
+Breast_MRI_744,"The left breast demonstrates heterogeneous density, featuring a 3.5 cm mass with associated calcifications, exhibiting a multicentric or multifocal disease pattern. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_745,"A mass is identified in the left breast, spanning the 10-11 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_746,"A 4 cm irregular mass with pleomorphic calcifications and suspicious axillary lymphadenopathy is seen in the 12 o'clock subareolar region of the left breast, with a heterogeneous background, and an additional mass is detected at the 8 o'clock position, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_747,"A mass with associated calcifications is noted in the left breast at the 10 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_748,"Suspicious axillary lymphadenopathy is noted, and the imaging study also suggests a multicentric or multifocal disease pattern."
+Breast_MRI_749,A 2.5 cm irregularly shaped hypoechoic mass is identified in the lower outer quadrant
+Breast_MRI_750,A mass is seen in the right breast at the 10 o'clock position.
+Breast_MRI_751,"A mass is identified in the right breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_752,"A 1 cm irregular, hypoechoic mass with an irregular shape is seen in the left breast, situated between the 6, 2, and 12 o'clock positions, within an extremely dense background, and is part of a multicentric or multifocal disease pattern; additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_753,"A mass is seen in the left breast at the 2 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_754,A mass is seen in the right breast at the 12 o'clock position.
+Breast_MRI_755,A mass is identified in the right breast at the 1 o'clock position.
+Breast_MRI_756,"In the left breast, an irregular mass measuring 1.4 cm in size is seen in the 11 o'clock position, situated against a background of scattered fibroglandular density."
+Breast_MRI_757,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_758,A 1.5 cm oval mass with indistinct margins is seen in a predominantly fatty background.
+Breast_MRI_759,A mass is seen in the left breast at the 12 o'clock position.
+Breast_MRI_760,"A mass is seen in the left breast at the 6 o'clock subareolar position, with suspicious ipsilateral axillary lymphadenopathy and a multicentric or multifocal disease pattern; additionally, skin or nipple involvement is noted."
+Breast_MRI_761,A mass is noted in the upper outer quadrant of the right breast.
+Breast_MRI_762,"In the dense breast tissue, an irregular mass is seen in the 1 o'clock to 2:30 position, accompanied by architectural distortion, and suspicious ipsilateral axillary lymphadenopathy is also noted."
+Breast_MRI_763,No descriptive imaging data available for this patient.
+Breast_MRI_764,"A mass is identified in the right breast at the posterior/superior-anterior/inferior position, accompanied by suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern. Additionally, skin or nipple involvement is evident."
+Breast_MRI_765,"A mass is identified in the left breast at the 5 o'clock position, with associated suspicious ipsilateral axillary lymphadenopathy, and a multifocal disease pattern is also present."
+Breast_MRI_766,"A mass is identified in the right breast, located 6 cm from the nipple at the 9 o'clock position, exhibiting a multicentric or multifocal disease pattern, with skin or nipple involvement."
+Breast_MRI_767,No descriptive imaging data available for this patient.
+Breast_MRI_768,"The right breast reveals a mass at the 11 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_769,"A mass is seen in the left breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_770,
+Breast_MRI_771,A mass is visualized in the right breast at the 11 o'clock position.
+Breast_MRI_772,"In the left breast, an oval, circumscribed mass measuring 1.2 cm in maximum dimension is seen at the 1 o'clock position, exhibiting hypoechoic echogenicity within an extremely dense breast."
+Breast_MRI_773,"In the heterogeneous breast tissue, a 1.5 cm oval mass with spiculated margins is seen in the 10 o'clock position, with evidence of multicentric or multifocal disease."
+Breast_MRI_774,"A mass is seen in the right breast at the 11 o'clock position, with suspicious ipsilateral axillary lymphadenopathy and a multifocal disease pattern."
+Breast_MRI_775,"A mass is seen in the left breast at the 10 o'clock position, and imaging findings suggest a multicentric or multifocal disease pattern."
+Breast_MRI_776,"A mass is visualized in the upper inner quadrant/upper outer quadrant/central region of the left breast, accompanied by suspicious axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_777,The right breast demonstrates a multicentric or multifocal disease pattern.
+Breast_MRI_778,"A mass is identified in the left breast at the 2 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, with a pattern of multicentric or multifocal disease."
+Breast_MRI_779,Multicentric or multifocal disease is present in the right breast.
+Breast_MRI_780,A mass is seen in the right breast at the 12 o'clock position.
+Breast_MRI_781,A mass is visualized in the left breast at the 10 o'clock position.
+Breast_MRI_782,"A mass is identified in the left breast at the 12 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_783,"A mass is visualized in the right breast at the 7 o'clock position, with associated suspicious axillary lymphadenopathy. The mass exhibits a multicentric or multifocal disease pattern, and additional suspicious findings are noted in the contralateral breast."
+Breast_MRI_784,"In the left breast, an irregular mass measuring 1 cm is visualized at the 3 o'clock position, with scattered background breast tissue density. Additionally, a multicentric or multifocal disease pattern is noted."
+Breast_MRI_785,The right breast shows evidence of multicentric or multifocal disease.
+Breast_MRI_786,The left breast reveals a mass with skin or nipple involvement.
+Breast_MRI_787,A mass is noted in the right breast at the 10 o'clock position.
+Breast_MRI_788,"The right breast reveals a mass at the 10 o'clock position, with a multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_789,"The left breast imaging reveals a 0.6 cm irregular, hypoechoic mass with indistinct margins, located at the 3 o'clock position, within a heterogeneous background. This lesion is part of a multifocal disease pattern."
+Breast_MRI_790,"In the heterogeneous breast tissue, a 1.2 cm irregular mass with obscured margins is seen in the 9 o'clock to 5:30 position, exhibiting a hypoechoic echogenicity, and demonstrating a multicentric or multifocal disease pattern."
+Breast_MRI_791,"A mass is seen in the left breast at the 3 o'clock posterior position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_792,"A mass is seen in the right breast at the 12:30 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern."
+Breast_MRI_793,"A mass is identified in the right breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, with evidence of pectoral muscle involvement."
+Breast_MRI_794,"A mass is seen in the left breast at the 1 o'clock 3 position, exhibiting a multicentric or multifocal disease pattern, with evidence of skin or nipple involvement."
+Breast_MRI_795,"A mass is seen in the upper outer quadrant of the right breast, exhibiting a multicentric or multifocal disease pattern, with suspicious findings also present in the contralateral breast."
+Breast_MRI_796,"A 3.5 cm irregular mass with hypoechoic echogenicity is visualized in the left breast, 9 cm from the nipple at the 10 o'clock position. The mass is surrounded by a background of heterogeneously dense tissue, and associated suspicious axillary lymphadenopathy is present, with a multicentric or multifocal disease pattern."
+Breast_MRI_797,"A 1.3 cm irregular mass with hypoechoic echogenicity is noted in the 4 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_798,"A mass is seen in the 4 o'clock 7 position, and a multicentric or multifocal disease pattern is suspected. Additionally, suspicious findings are present in the contralateral breast."
+Breast_MRI_799,A mass is identified in the left breast at the 7 o'clock position.
+Breast_MRI_800,A mass is identified in the right breast at the 1 o'clock position.
+Breast_MRI_801,"A mass is identified in the left breast at the 1 o'clock 6 position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_802,"The breast tissue is predominantly fatty, and multiple microcalcifications are scattered throughout."
+Breast_MRI_803,A mass is identified in the right breast at the 10 o'clock retroareolar position.
+Breast_MRI_804,"A 1.6 cm irregular mass with hypoechoic echogenicity is seen at the 9:30 o'clock position in the breast, with suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern."
+Breast_MRI_805,No descriptive imaging data available for this patient.
+Breast_MRI_806,Right breast imaging demonstrates an abnormal finding.
+Breast_MRI_807,A mass is seen in the right breast at the 10 o'clock position.
+Breast_MRI_808,"A mass is identified in the left breast at the 2 o'clock subareolar position, accompanied by suspicious ipsilateral axillary lymphadenopathy and skin or nipple involvement."
+Breast_MRI_809,"A mass is seen in the right breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_810,A mass is present in the left breast.
+Breast_MRI_811,"The left breast demonstrates a mass at the 12 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_812,"A 2.5 cm irregular mass with indistinct margins is seen in the 2 o'clock position, exhibiting a solid appearance on ultrasound, and demonstrates a multicentric or multifocal disease pattern."
+Breast_MRI_813,A left breast mass is present.
+Breast_MRI_814,"The right breast reveals a mass at the 4 o'clock 10 position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_815,The left breast at the 8 o'clock position displays a mass with skin or nipple involvement.
+Breast_MRI_816,"A 1.5 cm irregularly shaped, hypoechoic mass with circumscribed margins is visualized in the 5-6 o'clock position of the breast, set against a heterogeneous background. Posterior acoustic shadowing is noted. Associated architectural distortion is present, and suspicious axillary lymphadenopathy is seen. Additionally, there is evidence of multicentric or multifocal disease, with skin or nipple involvement."
+Breast_MRI_817,"A mass is seen in the right breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_818,"A mass is identified in the left breast at the 5 o'clock position, exhibiting a multicentric or multifocal disease pattern, and further examination reveals suspicious findings in the contralateral breast."
+Breast_MRI_819,"A mass is noted in the right breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_820,"A mass is identified in the left breast at the 9 o'clock position, with associated calcifications, and demonstrates skin or nipple involvement. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_821,"A mass is identified in the right breast at the 7 o'clock 7 o'clock position, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_822,A mass is visualized in the right breast at the 1 o'clock position.
+Breast_MRI_823,"In the breast tissue, predominantly fatty in composition, a 2 cm mass is seen in the 12-1 o'clock position."
+Breast_MRI_824,"A 9 o'clock subareolar, 12 o'clock position mass in the breast exhibits spiculated margins, mixed echogenicity, and posterior acoustic shadowing, with associated architectural distortion."
+Breast_MRI_825,"A mass is seen in the left breast at the 10 o'clock 9 position, accompanied by suspicious axillary lymphadenopathy, and there are also suspicious findings noted in the contralateral breast."
+Breast_MRI_826,"A 1.5 cm irregularly shaped mass with spiculated margins and clustered calcifications is visualized in the breast, situated against a background of scattered fibroglandular density, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_827,"A mass is visualized in the right breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_828,"A mass is noted in the right breast, extending across the 5, 8, and 9 o'clock positions, with a multicentric or multifocal disease pattern."
+Breast_MRI_829,"A mass is noted in the retroareolar region, with and without calcifications."
+Breast_MRI_830,"The right breast imaging shows a mass, with a concurrent multicentric or multifocal disease pattern, and suspicious findings are also present in the contralateral breast."
+Breast_MRI_831,"A mass is visualized in the left breast at the 12 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_832,No descriptive imaging data available for this patient.
+Breast_MRI_833,"The right breast reveals a mass at the 1 o'clock position, accompanied by suspicious axillary lymphadenopathy, and exhibits a multicentric or multifocal disease pattern. Additionally, skin or nipple involvement is noted, and suspicious findings are also observed in the contralateral breast."
+Breast_MRI_834,"A 2.2 cm irregular mass is seen in the 2-3 o'clock position of the breast, with a background of scattered fibroglandular density. Suspicious axillary lymphadenopathy is also present, and a multicentric or multifocal disease pattern is noted, with skin or nipple involvement."
+Breast_MRI_835,A mass is seen in the left breast at the 6 o'clock position.
+Breast_MRI_836,Pectoral muscle involvement is present.
+Breast_MRI_837,A mass is visualized in the right breast.
+Breast_MRI_838,"Breast tissue is heterogeneous, featuring multiple foci of calcifications"
+Breast_MRI_839,"A mass is seen in the upper outer quadrant of the left breast, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_840,No descriptive imaging data available for this patient.
+Breast_MRI_841,No descriptive imaging data available for this patient.
+Breast_MRI_842,"In the left breast at the 12 o'clock position, a mass is seen with associated calcifications, displaying a multicentric or multifocal disease pattern."
+Breast_MRI_843,"A mass is seen in the left breast at the subareolar region, with a multifocal disease pattern."
+Breast_MRI_844,A mass is visualized in the right breast at the 1 o'clock position.
+Breast_MRI_845,"A mass is seen in the right breast, exhibiting a multicentric or multifocal disease pattern, and there are also suspicious findings present in the contralateral breast."
+Breast_MRI_846,"In the right breast, a mass is seen at the 10-11 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_847,A mass is identified in the left breast at the 8 o'clock position.
+Breast_MRI_848,A mass is noted in the left breast.
+Breast_MRI_849,A mass is seen in the right breast at the 230 o'clock position.
+Breast_MRI_850,"A mass is evident in the left breast at the 12 o'clock position, accompanied by skin or nipple involvement."
+Breast_MRI_851,"A small, hypoechoic lesion measures 0.4 cm in diameter."
+Breast_MRI_852,"The left breast imaging shows a mass with a multicentric or multifocal disease pattern, and there is evidence of skin or nipple involvement."
+Breast_MRI_853,"In the heterogeneous breast tissue, a 1.6 cm oval mass with indistinct margins is seen, accompanied by heterogeneous calcifications."
+Breast_MRI_854,"A 0.8 cm irregular mass with mixed echogenicity is noted in the left breast, situated at the 10 o'clock position, both posteriorly and anteriorly. The surrounding tissue is predominantly fatty."
+Breast_MRI_855,"Axillary lymph nodes show suspicious findings, with concurrent abnormalities observed in the contralateral breast."
+Breast_MRI_856,The right breast exhibits a multicentric or multifocal pattern with a mass located at the 12 o'clock position.
+Breast_MRI_857,A mass is identified in the left breast at the 2 o'clock position.
+Breast_MRI_858,"A mass is noted in the left breast at the 1 o'clock position, without calcifications."
+Breast_MRI_859,"A mass is noted in the right breast, 3 cm from the nipple, at the 8:30 o'clock position."
+Breast_MRI_860,"A 3.2 cm irregular, spiculated mass with hypoechoic echogenicity is identified in the 2 o'clock position of the breast, set against a heterogeneous background."
+Breast_MRI_861,"A mass is seen in the right breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy."
+Breast_MRI_862,A mass is visualized in the left breast at the 10 o'clock position.
+Breast_MRI_863,"A mass is seen in the left breast at the 10 o'clock position, with suspicious ipsilateral axillary lymphadenopathy, and a pattern of multicentric or multifocal disease."
+Breast_MRI_864,"A mass is seen in the subareolar region of the right breast, with evidence of multicentric or multifocal disease, and extending to involve the skin and nipple, as well as the pectoral muscle."
+Breast_MRI_865,"A 7 cm mass with isoechoic echogenicity is visualized in the heterogeneous breast tissue at the 2 o'clock position, accompanied by associated architectural distortion and pleomorphic calcifications. Suspicious axillary lymphadenopathy is also noted."
+Breast_MRI_866,"A mass is seen in the left breast at the 2 o'clock 3 o'clock position, with associated suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern is evident."
+Breast_MRI_867,The right breast imaging reveals a mass with skin or nipple involvement.
+Breast_MRI_868,"A mass is seen in the right breast at the 12 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_869,A 2.6 cm oval lesion with indistinct margins is noted.
+Breast_MRI_870,"A mass is seen in the upper outer quadrant, with a pattern of multicentric or multifocal disease."
+Breast_MRI_871,No descriptive imaging data available for this patient.
+Breast_MRI_872,No descriptive imaging data available for this patient.
+Breast_MRI_873,"A mass is identified in the left breast at the 10 o'clock position, accompanied by suspicious axillary lymphadenopathy, and additionally, suspicious findings are also present in the contralateral breast."
+Breast_MRI_874,"A mass is seen in the right breast at the 8 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, accompanied by skin or nipple involvement."
+Breast_MRI_875,"A mass is identified in the right breast at the 9 o'clock position, accompanied by suspicious ipsilateral axillary lymphadenopathy, with a noted multicentric or multifocal disease pattern."
+Breast_MRI_876,A mass is identified in the right breast at the 10 o'clock position.
+Breast_MRI_877,"Scattered breast density is seen, with a 2 cm spiculated mass at the 12 o'clock 2 axilla position, accompanied by posterior acoustic shadowing. Suspicious axillary lymphadenopathy is present, and a multicentric or multifocal disease pattern is noted. Additionally, suspicious findings are seen in the contralateral breast."
+Breast_MRI_878,"A mass is visualized in the left breast at the 12 o'clock position, accompanied by suspicious findings in the contralateral breast."
+Breast_MRI_879,"A heterogeneous breast density pattern is seen, accompanied by suspicious ipsilateral axillary lymphadenopathy, and a multicentric or multifocal disease pattern is present."
+Breast_MRI_880,"A 2 cm irregularly shaped mass with spiculated margins is seen in the 12-1 position of the breast, demonstrating heterogeneous calcifications and posterior acoustic shadowing, set against a background of scattered fibroglandular density. The mass itself is hypoechoic."
+Breast_MRI_881,No descriptive imaging data available for this patient.
+Breast_MRI_882,A mass is seen in the breast at the 4 o'clock position.
+Breast_MRI_883,"A mass is identified in the lateral breast region, accompanied by suspicious axillary lymphadenopathy, and exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_884,"A 3.3 cm irregular mass with hypoechoic echogenicity, pleomorphic calcifications, and spiculated margins is seen in the heterogeneous breast tissue at the 2 o'clock position."
+Breast_MRI_885,A mass is present in the left breast at the 12 o'clock position.
+Breast_MRI_886,Right breast imaging reveals a mass with associated suspicious ipsilateral axillary lymphadenopathy and a multicentric or multifocal disease pattern.
+Breast_MRI_887,"In the breast, a 1.4 cm mass is seen at the 10 o'clock 2 o'clock position, with an irregular shape and indistinct margins. The lesion is isodense with surrounding tissue, and the contralateral breast also reveals suspicious findings."
+Breast_MRI_888,No descriptive imaging data available for this patient.
+Breast_MRI_889,"A mass is visualized in the right breast at the 3-10 o'clock position, with a multifocal or multicentric disease pattern, and there are also suspicious findings noted in the contralateral breast."
+Breast_MRI_890,A mass is seen in the right breast at the 3 o'clock position.
+Breast_MRI_891,"A mass is identified in the left breast at the 11 o'clock position, exhibiting a multicentric or multifocal disease pattern, with suspicious findings also present in the contralateral breast."
+Breast_MRI_892,"In the left breast, an irregular, hypoechoic mass measuring 0.5 cm in maximum dimension is seen at the 11 o'clock position, with scattered breast tissue density as the background. Notably, suspicious findings are also observed in the contralateral breast."
+Breast_MRI_893,"An irregular, hypoechoic mass measuring approximately 1 cm is visualized in the axillary region, accompanied by pleomorphic calcifications against a background of scattered fibroglandular density."
+Breast_MRI_894,"A 1.2 cm lobular mass with obscured margins is visualized in the breast at the 9 o'clock position, appearing solid on ultrasound, against a background of scattered fibroglandular density."
+Breast_MRI_895,A mass is identified in the right breast at the 8 o'clock position.
+Breast_MRI_896,"A mass is identified in the lower inner quadrant of the right breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_897,A mass is seen in the right breast at the 12 o'clock position.
+Breast_MRI_898,"A mass is identified in the retroareolar region of the left breast at the 3 o'clock to 6 o'clock position, with associated suspicious axillary lymphadenopathy and a multicentric or multifocal disease pattern, accompanied by skin or nipple involvement."
+Breast_MRI_899,"In the left breast, a 1 cm irregular mass with indistinct margins is seen at the 9 o'clock to 5 o'clock position, featuring anechoic echogenicity, posterior acoustic shadowing, and pleomorphic calcifications. The lesion appears solid on ultrasound, with a heterogeneous background and a multicentric or multifocal disease pattern."
+Breast_MRI_900,"A mass is seen in the right breast at the 8-9 o'clock position, and suspicious findings are also noted in the contralateral breast."
+Breast_MRI_901,A mass is visualized in the right breast at the 9 o'clock position.
+Breast_MRI_902,"A 1.4 cm oval mass with spiculated margins is seen in the breast, situated against a background of scattered fibroglandular tissue."
+Breast_MRI_903,"In the heterogeneous breast tissue, a 0.7 cm hypoechoic mass with circumscribed margins is seen at the 9 o'clock posterior position, with a multifocal disease pattern present."
+Breast_MRI_904,"The right breast exhibits a mass, and suspicious findings are also evident in the contralateral breast."
+Breast_MRI_905,"In the left breast, an extremely dense breast tissue is observed. A 2 cm mass with indistinct margins is seen at the 11 o'clock position, 3 cm from the nipple, with a shape consistent with a rounded contour. Associated architectural distortion is present, and a multicentric or multifocal disease pattern is noted."
+Breast_MRI_906,A mass is present in the left breast.
+Breast_MRI_907,"The left breast examination reveals a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy, and demonstrates a multicentric or multifocal disease pattern."
+Breast_MRI_908,The left breast demonstrates an abnormal finding.
+Breast_MRI_909,"A mass is identified in the right breast at the 10 o'clock position, with a pattern of multicentric or multifocal disease."
+Breast_MRI_910,"A mass is identified in the left breast, with a primary lesion located 2 cm from the nipple at the 2 o'clock position, and additional foci of disease detected 3 cm from the nipple in the same quadrant, consistent with a multicentric or multifocal disease pattern."
+Breast_MRI_911,"Note is made of a mass located in the upper outer quadrant of the breast, accompanied by suspicious ipsilateral axillary lymphadenopathy."
+Breast_MRI_912,"A mass is seen in the right breast at the 10 o'clock position, and there are suspicious findings also present in the contralateral breast."
+Breast_MRI_913,"An irregular mass with ill-defined margins is seen in the 7 o'clock position, measuring approximately 0.8 cm in diameter, accompanied by posterior acoustic shadowing."
+Breast_MRI_914,"A mass is seen in the right breast at the 12 o'clock position, exhibiting a multicentric or multifocal disease pattern, with additional suspicious findings also present in the contralateral breast, and skin or nipple involvement is noted."
+Breast_MRI_915,"A mass is visualized in the right breast at the 1 o'clock/12:30 position, accompanied by suspicious axillary lymphadenopathy and skin/nipple involvement. Additionally, suspicious findings are noted in the contralateral breast."
+Breast_MRI_916,The right breast shows a multicentric or multifocal disease pattern.
+Breast_MRI_917,"Imaging reveals a mass in the left breast at the 9 o'clock 12 position, accompanied by suspicious axillary lymphadenopathy, and a multicentric or multifocal disease pattern. Furthermore, suspicious findings are also evident in the contralateral breast."
+Breast_MRI_918,"The right breast exhibits a mass, accompanied by suspicious ipsilateral axillary lymphadenopathy, and demonstrates a multicentric or multifocal disease pattern, with skin or nipple involvement also observed."
+Breast_MRI_919,"A mass is seen in the right breast with calcifications, exhibiting a multicentric or multifocal disease pattern."
+Breast_MRI_920,"A mass is seen in the right breast at the 9 o'clock and lateral positions, exhibiting a multicentric or multifocal disease pattern, with suspicious findings also noted in the contralateral breast."
+Breast_MRI_921,"A mass is seen in the upper outer quadrant of the right breast, with a pattern of multicentric or multifocal disease."
+Breast_MRI_922,Left breast imaging demonstrates an abnormal finding.
